@@ -1,0 +1,729 @@
+Look at this series: 80, 10, 70, 15, 60, ... What number should come next?, ,Text,Single,Average,Number Series ,20;25;30;50;,A
+Look at this series: 2, 6, 18, 54, ... What number should come next?, ,Text,Single,Average,Number Series ,108;148;162;216;,C
+Look at this series: 5.2, 4.8, 4.4, 4, ... What number should come next?, ,Text,Single,Average,Number Series ,3;3.3;3.5;3.6;,D
+Look at this series: 8, 6, 9, 23, 87 , ... What number should come next?, ,Text,Single,Average,Number Series ,128;226;324;429;,D
+Look at this series: 21, 9, 21, 11, 21, 13, 21, ... What number should come next?, ,Text,Single,Average,Number Series ,14;15;21;23;,B
+Look at this series: 58, 52, 46, 40, 34, ... What number should come next?, ,Text,Single,Average,Number Series ,26;28;30;32;,B
+Look at this series: 3, 4, 7, 8, 11, 12, ... What number should come next?, ,Text,Single,Average,Number Series ,7;10;14;15;,D
+Look at this series: 8, 22, 8, 28, 8, ... What number should come next?, ,Text,Single,Average,Number Series ,9;29;32;34;,D
+Look at this series: 31, 29, 24, 22, 17, ... What number should come next?, ,Text,Single,Average,Number Series ,15;14;13;12;,A
+Look at this series: 80, 10, 70, 15, 60, ... What number should come next?, ,Text,Single,Average,Number Series ,20;25;30;50;,A
+Look at this series: 1.5, 2.3, 3.1, 3.9, ... What number should come next?, ,Text,Single,Average,Number Series ,4.2;4.4;4.7;5.1;,C
+Look at this series: 14, 28, 20, 40, 32, 64, ... What number should come next?, ,Text,Single,Average,Number Series ,52;56;96;128;,B
+Look at this series: 2, 4, 6, 8, 10, ... What number should come next?, ,Text,Single,Average,Number Series ,11;12;13;14;,B
+Look at this series: 201, 202, 204, 207, ... What number should come next?, ,Text,Single,Average,Number Series ,205;208;210;211;,D
+Look at this series: 544, 509, 474, 439, ... What number should come next?, ,Text,Single,Average,Number Series ,404;414;420;445;,A
+Which one is a valid declaration of a boolean?, ,Text,Single,Average,Language Fundamentals ,boolean b1 = 0;;boolean b2 = 'false';;boolean b3 = false;;boolean b4 = Boolean.false();;boolean b5 = no;;,C
+Which three are valid declarations of a float?, ,Text,Single,Average,Language Fundamentals ,1, 2, 4;2, 3, 5;1, 3, 6;2, 4, 6;,C
+Which is a valid declarations of a String?, ,Text,Single,Average,Language Fundamentals ,String s1 = null;;String s2 = 'null';;String s3 = (String) 'abc';;String s4 = (String) '\ufeed';;,A
+What is the numerical range of a char?, ,Text,Single,Average,Language Fundamentals ,-128 to 127;-(2 to (2) - 1;0 to 32767;0 to 65535;,D
+Which three are legal array declarations?, ,Text,Single,Average,Language Fundamentals ,1, 2, 4;2, 4, 5;2, 3, 4;All are correct.;,A
+Which one of the following will declare an array and initialize it with five numbers?, ,Text,Single,Average,Language Fundamentals ,Array a = new Array(5);;int [] a = {23,22,21,20,19};;int a [] = new int[5];;int [5] array;;,B
+Which three are valid declarations of a char?, ,Text,Single,Average,Language Fundamentals ,1, 2, 4;1, 3, 6;3, 5;5 only;,B
+Which is the valid declarations within an interface definition?, ,Text,Single,Average,Language Fundamentals ,public double methoda();;public final double methoda();;static void methoda(double d1);;protected void methoda(double d1);;,A
+Which word does NOT belong with the others?, ,Text,Single,Easy,Verbal Classification ,guitar;flute;violin;cello;,B
+Which word does NOT belong with the others?, ,Text,Single,Easy,Verbal Classification ,dodge;flee;duck;avoid;,B
+Which word does NOT belong with the others?, ,Text,Single,Easy,Verbal Classification ,branch;dirt;leaf;root;,B
+Which word does NOT belong with the others?, ,Text,Single,Easy,Verbal Classification ,street;freeway;interstate;expressway;,A
+Which word does NOT belong with the others?, ,Text,Single,Easy,Verbal Classification ,heading;body;letter;closing;,C
+Which word does NOT belong with the others?, ,Text,Single,Easy,Verbal Classification ,tape;twine;cord;yarn;,A
+Which word does NOT belong with the others?, ,Text,Single,Easy,Verbal Classification ,leopard;cougar;elephant;lion;,C
+Which word does NOT belong with the others?, ,Text,Single,Easy,Verbal Classification ,couch;rug;table;chair;,B
+Which word does NOT belong with the others?, ,Text,Single,Easy,Verbal Classification ,cornea;retina;pupil;vision;,D
+Which word does NOT belong with the others?, ,Text,Single,Easy,Verbal Classification ,noun;preposition;punctuation;adverb;,C
+Which word does NOT belong with the others?, ,Text,Single,Easy,Verbal Classification ,book;index;glossary;chapter;,A
+Which word does NOT belong with the others?, ,Text,Single,Easy,Verbal Classification ,unimportant;trivial;insignificant;familiar;,D
+Which country to host the 23rd edition of the World Congress on Information Technology (WCIT-2019)?,null,Text,Single,Hard,CurrentAffairs,[A] Mexico ; [B] Brazil ; [C] Canada ; [D] Armenia, D
+The Chandrapur Super Thermal Power Station (CSTPS) is located in which state?,null,Text,Single,Hard,CurrentAffairs,[A] Maharashtra ; [B] Madhya Pradesh ; [C] Tamil Nadu ; [D] Odisha, A
+India has contributed how much amount of aid for rehabilitation work in cyclone-hit Tonga?,null,Text,Single,Hard,CurrentAffairs,[A] $2 million ; [B] $1.5 million ; [C] $1.0 million ; [D] $2.5 million, C
+Billy Graham, the renowned Christian evangelist has passed away. He was related to which country?,null,Text,Single,Hard,CurrentAffairs,[A] France ; [B] United States ; [C] United Kingdom ; [D] South Africa, B
+What is the theme of 7th edition of the Youth Festival 2018 in New Delhi?,null,Text,Single,Hard,CurrentAffairs,[A] Let Love Live ; [B] Let Unite for Nation ; [C] Let Save Trees ; [D] Let Help Nation, A
+Suresh Seth, who passed away recently, was associated with which political party?,null,Text,Single,Hard,CurrentAffairs,[A] Bahujan Samaj Party ; [B] Bharatiya Janata Party ; [C] Indian National Congress ; [D] Nationalist Congress Party, C
+India will co-host the first International Solar Alliance (ISA) summit with which country?,null,Text,Single,Hard,CurrentAffairs,[A] France ; [B] Germany ; [C] Japan ; [D] Canada, A
+What is the theme of the 2018 International Mother Language Day (IMLD)?,null,Text,Single,Hard,CurrentAffairs,[A] Quality education, language(s) of instruction and learning outcomes ; [B] Inclusion in and through education: Language counts ; [C] Linguistic diversity and multilingualism count for sustainable development ; [D] Towards Sustainable Futures through Multilingual Education, C
+The Telangana government has signed a technology partnership agreement with which country at the World Congress on Information Technology (WCIT) 2018?,null,Text,Single,Hard,CurrentAffairs,[A] Sri Lanka ; [B] Taiwan ; [C] Japan ; [D] Australia, B
+ The India International Textiles Expo (IIT Expo) has started in which city?,null,Text,Single,Hard,CurrentAffairs,[A] New Delhi ; [B] Kathmandu ; [C] Kolkata ; [D] Colombo, B
+Neelabh Mishra, who passed away recently, was associated with which field?,null,Text,Single,Hard,CurrentAffairs,[A] Sports ; [B] Law ; [C] Journalism ; [D] Film Industry, C
+Kunwar Bai, the brand ambassador of Swachch Bharat has passed away. She was native of which state?,null,Text,Single,Hard,CurrentAffairs,[A] Chhattisgarh ; [B] Madhya Pradesh ; [C] Bihar ; [D] Rajasthan, A
+The International Conference on Sustainable Biofuels (ICSB-2018) will be organized in which city?,null,Text,Single,Hard,CurrentAffairs,[A] Patna ; [B] Guwahati ; [C] New Delhi ; [D] Shillong, C
+Which city hosted the 4th edition of Economic Times – Global Business Summit (ET-GBS 2018)?,null,Text,Single,Hard,CurrentAffairs,[A] Pune ; [B] New Delhi ; [C] Mumbai ; [D] Hyderabad, B
+The Reserve Bank of India (RBI) has recently launched the Ombudsman Scheme for NBFCs. The NBFC Ombudsman will have office in which of the following cities?,null,Text,Single,Hard,CurrentAffairs,[A] Kolkata ; [B] Chennai ; [C] New Delhi ; [D] All of the above, D
+India and signed how much amount of loan with Asian Development Bank (ADB) for improvement and expansion of water supply in Bihar?,null,Text,Single,Hard,CurrentAffairs,[A] $84 million ; [B] $68 million ; [C] $95 million ; [D] $111 million, A
+Who authored the book “Hari Singh Nalwa: Champion of the Khalsaji – 1791-1837”?,null,Text,Single,Hard,CurrentAffairs,[A] Vanit Nalwa ; [B] Aravind Adiga ; [C] Chitra Banerjee Divakaruni ; [D] Rohinton Mistry, A
+Aruna Budda Reddy has created history by becoming the first Indian gymnast to win an individual medal at the 2018 Gymnastics World Cup. She hails from which city?,null,Text,Single,Hard,CurrentAffairs,[A] Kochi ; [B] Hyderabad ; [C] Chennai ; [D] Kolkata, B
+Which Indian sportsman has clinched the men’s singles title at the Austrian Open International Challenge badminton tournament?,null,Text,Single,Hard,CurrentAffairs,[A] Srikanth Kidambi ; [B] H. S. Prannoy ; [C] B. Sai Praneeth ; [D] Parupalli Kashyap, D
+Which country to host the 2018 SAARC Business Leaders’ Conclave?,null,Text,Single,Hard,CurrentAffairs,[A] Nepal ; [B] Myanmar ; [C] India ; [D] Sri Lanka, A
+What invention was first installed at a Hartford, Connecticut bank in 1889?, ,Text,Single,Hard,Inventions ,Automatic teller machine;Time-lock safe;Burglar alarm;Pay telephone;,D
+Ralph Samuelson was only 18 when he invented this sporting item in 1922. What was that?, ,Text,Single,Hard,Inventions ,Golf tee;Motorboat;Water skis;Hang glider;,C
+Who invented Bifocal Lens?, ,Text,Single,Hard,Inventions ,Alfred B. Nobel;Thomas Alva Edison;Benjamin Franklin;Rudolf Diesel;,C
+What Karl Benz invented?, ,Text,Single,Hard,Inventions ,Gasoline powered automobile;Streetcar;Glider;Steam turbine;,A
+When were bar code scanners invented?, ,Text,Single,Hard,Inventions ,1940s;1950s;1970s;1960s;,C
+When was the game Frisbee invented?, ,Text,Single,Hard,Inventions ,1920s;1900s;1870s;1890s;,C
+This English inventor is known as the 'Father of Computing.', ,Text,Single,Hard,Inventions ,Philo Farnsworth;J. Presper Eckert;John Mauchly;Charles Babbage;,D
+Who invented Airship (rigid)?, ,Text,Single,Hard,Inventions ,Dr. Alan M. Turing;Roger Bacon;G. Ferdinand Von Zeppelin;Otto;,C
+What piece of clothing was invented by French fashion designer Louis Reard in 1946?, ,Text,Single,Hard,Inventions ,Zoot suit;Mini-skirt;Bikini;Tank top;,C
+In which year was MIDI introduced?, ,Text,Single,Hard,Inventions ,1987;1983;1973;1977;,B
+In which decade was the SPICE simulator introduced?, ,Text,Single,Hard,Inventions ,1950s;1960s;1970s;1980s;,C
+Who invented the first controllable flying AEROPLANE (AIRPLANE)?, ,Text,Single,Hard,Inventions ,Wright Brothers;Lidenbergh Brothers;South Brothers;West Brothers;,A
+What groovy item was invented by Englishman Edward Craven Walker in 1963?, ,Text,Single,Hard,Inventions ,Leisure suit;Lava lamp;Eight-track tape deck;Hot comb;,B
+In which decade was the Internet first implemented?, ,Text,Single,Hard,Inventions ,1940s;1950s;1960s;1980s;,C
+What did cardiologist Dr. Paul Zoll invent in Massachusetts in 1952?, ,Text,Single,Hard,Inventions ,EKG;Artificial heart valve;Artificial heart;Pacemaker;,D
+What Elmer A. Sperry invented?, ,Text,Single,Hard,Inventions ,Hydroplane;Hydraulic turbine;Magnetic compass;Gyrocompass;,D
+What furniture item was invented by California furniture designer Charles Prior Hall in 1968?, ,Text,Single,Hard,Inventions ,Sofa bed;Captain's chair;Waterbed;Hammock;,C
+The Manhattan Project was started by President Roosevelt in 1942 to ensure that the U.S. beat the Germans in developing a nuclear bomb. Whom did Roosevelt appoint as scientific head the Manhattan Project?, ,Text,Single,Hard,Inventions ,Robert Oppenheimer;James B. Conant;Leslie R. Groves;Vannevar Bush;,A
+When was the first lawn mower invented?, ,Text,Single,Hard,Inventions ,1830;1854;1835;1849;,A
+In which decade were the first successful diode and triode vacuum tubes invented?, ,Text,Single,Hard,Inventions ,1800s;1880s;1890s;1900s;,D
+Who is the English physicist responsible for the 'Big Bang Theory'?, ,Text,Single,Hard,Inventions ,Albert Einstein;Michael Skube;George Gamow;Roger Penrose;,C
+What 'game' was first produced by the Southern Novelty Company in Baltimore, Maryland in 1892?, ,Text,Single,Hard,Inventions ,Frisbee;Monopoly;Ouija board;Ping Pong;,C
+Who had an explosive idea and first patented DYNAMITE?, ,Text,Single,Hard,Inventions ,J. R. Gluber;A. Nobel;G. Fawks;W. Bickford;,B
+Who invented the Spinning Jenny?, ,Text,Single,Hard,Inventions ,Thornton Hargreaves;Peter Hargreaves;James Hargreaves;Simon Hargreaves;,C
+The initials JCB on earth-moving equipment are those of the founder of the company that makes it. What is his name?, ,Text,Single,Hard,Inventions ,John Christopher Ballantyne;Joseph Cyril Bamford;John Christopher Baxter;Jack Croxford Baker;,B
+What treat was invented by 11-year-old Frank Epperson in 1905?, ,Text,Single,Hard,Inventions ,Popsicle;Banana split;Cotton candy;Cracker Jacks;,A
+When was Milk Tray first introduced?, ,Text,Single,Hard,Inventions ,1915;1934;1923;1942;,A
+When was the toothbrush invented?, ,Text,Single,Hard,Inventions ,1770;1765;1790;1742;,A
+What item of apparel was invented by Ellery Chun, a Hawaiian clothing merchant, in 1931?, ,Text,Single,Hard,Inventions ,String bikini;Muumuu;Aloha shirt;Capri pants;,C
+Who invented Fountain Pen?, ,Text,Single,Hard,Inventions ,John J. Loud;Sir Frank Whittle;Lewis E. Waterman;Kirkpatrick Macmillan;,C
+Which insurance salesman invented the fountain pen in 1884?, ,Text,Single,Hard,Inventions ,Lewis Edson Waterman;Sir William Grove;Charles Kettering;George Fountain;,A
+When was the first elevator built?, ,Text,Single,Hard,Inventions ,1743;1739;1760;1785;,A
+What charge card, developed in 1950, was the first to be accepted nationally in the US?, ,Text,Single,Hard,Inventions ,Visa;Discover;MasterCharge;Diner's Club;,D
+What Enrico Fermi invented?, ,Text,Single,Hard,Inventions ,X ray machine;Betatron;Cyclotron;Nuclear reactor;,D
+Which of the following was first patented by an Australian in 1889?, ,Text,Single,Hard,Inventions ,Electric Drill;Electric Shaver;Electric Fence;Electric Heater;,A
+Who among the following invented the small pox vaccine?, ,Text,Single,Hard,Inventions ,Robert Koch;Edward Jenner;Robert Hooke;Louis Pasteur;,B
+What George Westinghouse invented?, ,Text,Single,Hard,Inventions ,Light bulb;Electric razor;Refrigerator;Railway air brakes;,D
+Who is the only U.S. President to invent and patent something?, ,Text,Single,Hard,Inventions ,Abraham Lincoln;Theodore Roosevelt;Thomas Jefferson;Rutherford B. Hayes;,A
+What invention is credited to the Russian born American inventor Vladimir Kosma Zworykin?, ,Text,Single,Hard,Inventions ,Telegraph;Radio;Television;Dishwasher;,C
+Benjamin Franklin was a prolific inventor. He invented the lightning rod, the Franklin stove, studied electricity, discovered the Gulf Stream, started the first library, and on and on. Among his many other inventions, what musical instrument did he invent?, ,Text,Single,Hard,Inventions ,Banjo;Oboe;Clarinet;Harmonium;,D
+What Thomas Davenport invented?, ,Text,Single,Hard,Inventions ,Screw propellor;Electric streetcar;Chesterfield;Sleeping (railway) car;,B
+What Elisha Otis invented?, ,Text,Single,Hard,Inventions ,The brake used in modern elevators;Jet Engine;Turbine;Hydraulic Crane;,A
+Where was the yo-yo invented?, ,Text,Single,Hard,Inventions ,France;United States;Philippines;England;,C
+For what does the world owe Almon Strowger a debt of gratitude?, ,Text,Single,Hard,Inventions ,Parking Meters;Vending Machines;Automatic Telephone Exchanges;Traffic Lights;,C
+Who is often called the 'first African-American' inventor?, ,Text,Single,Hard,Inventions ,Bessie Blount;George Washington Carver;Benjamin Banneker;Elijah McCoy;,C
+The first hand glider was designed by...?, ,Text,Single,Hard,Inventions ,Leonardo DaVinci;The Wright brothers;Francis Rogallo;Galileo;,A
+In which decade was the telegraph invented?, ,Text,Single,Hard,Inventions ,1810s;1840s;1870s;1890s;,B
+What inspired reflecting road lights to be invented?, ,Text,Single,Hard,Inventions ,Car door reflecting mirrors;The light a cat's eyes gave off on a fence;Sun light on steel posts on road sides;The sun light on the windshield;,B
+When were blue jeans invented?, ,Text,Single,Hard,Inventions ,1900s;1860s;1870s;1850s;,D
+Who invented Electric Generator?, ,Text,Single,Hard,Inventions ,Sir Alexander Graham Bell;Michael Faraday;Alfred B. Nobel;Thomas Alva Edison;,B
+What device for new parents did Ann Moore invent in 1969?, ,Text,Single,Hard,Inventions ,Bottle warmer;Baby monitor;Disposable diaper;Infant carrier;,D
+In which decade was the transistor invented?, ,Text,Single,Hard,Inventions ,1940s;1950s;1960s;1980s;,A
+What Igor Sikorsky invented?, ,Text,Single,Hard,Inventions ,Hydroplane;Jet engine airplane;Helicopter;Glider;,C
+What Henry Bessemer invented?, ,Text,Single,Hard,Inventions ,Aluminum;Electroplating;Steel Converter;Steel rolling mill;,C
+What African-American inventor received 5 patents in the field of shoemaking?, ,Text,Single,Hard,Inventions ,Elijah McCoy;Jan Ernst Matzeliger;Ernest Just;Lewis Latimer;,B
+It travels over land and water. Who invented the HOVERCRAFT?, ,Text,Single,Hard,Inventions ,S. Sperrow;O. Stricheg;T. Henman;C. Cockerell;,D
+In which decade was the AEEE (now the IEEE) founded?, ,Text,Single,Hard,Inventions ,1850s;1880s;1930s;1950s;,B
+What type of system did Paul Nipkow, John Baird, and Charles Jenkins all invent?, ,Text,Single,Hard,Inventions ,Telephone;Early Warning;Electricity;Television;,D
+What Sir Isaac Newton invented?, ,Text,Single,Hard,Inventions ,Reflecting telescope;Chronometer;Microscope;Spectacles;,A
+Who invented Bicycle?, ,Text,Single,Hard,Inventions ,Leo H Baekeland;Karl Benz;Evangelista Torricelli;Kirkpatrick Macmillan;,D
+In which decade with the first transatlantic radio broadcast occur?, ,Text,Single,Hard,Inventions ,1850s;1860s;1870s;1900s;,D
+In the 1700s, who would pay the postage fee for letters before the stamp was invented?, ,Text,Single,Hard,Inventions ,The sender;There was no fee;The receiver of the letter;The post office;,C
+Who synthesized the first wholly artificial gene?, ,Text,Single,Hard,Inventions ,Hargobind Khorana;J.J. Thompson;Benjamin Franklin;Meghnad Saha;,A
+FROZEN FOOD - Who discovered the first practical method of freezing food?, ,Text,Single,Hard,Inventions ,C. Birdseye;F. Rozenosh;G. Findus;R. Scott;,A
+When was the Raggedy Ann doll patented?, ,Text,Single,Hard,Inventions ,1915;1920;1919;1911;,A
+What Frank Whittle invented?, ,Text,Single,Hard,Inventions ,Radar;Ethyl gasoline;Sonar;Jet propulsion;,D
+When was the first Lionel trains manufactured?, ,Text,Single,Hard,Inventions ,1920;1890;1901;1944;,C
+What item, originally called the 'Whirlwind', was invented by Ives McGaffey in 1869?, ,Text,Single,Hard,Inventions ,Blender;Electric mixer;Washing machine;Vacuum cleaner;,D
+What office item was invented by Bette Nesmith Graham in 1951?, ,Text,Single,Hard,Inventions ,Fax machine;Stapler;Liquid Paper;Copy machine;,C
+What George Pullman invented?, ,Text,Single,Hard,Inventions ,Sleeping (railway) car;Airship;Box car (railway);Air brakes;,A
+What James Watt invented?, ,Text,Single,Hard,Inventions ,Diving bell;Steam boat;Hot air balloon;Rotary steam engine;,D
+Where is the village of Branston, after which the famous pickle is named?, ,Text,Single,Hard,Inventions ,Yorkshire;Lancashire;Staffordshire;Norfolk;,C
+Who invented Jet Engine?, ,Text,Single,Hard,Inventions ,Sir Frank Whittle;Gottlieb Daimler;Roger Bacon;Lewis E. Waterman;,A
+What invention caused many deaths while testing it?, ,Text,Single,Hard,Inventions ,Dynamite;Ladders;Race cars;Parachute;,D
+Who invented Gunpowder?, ,Text,Single,Hard,Inventions ,G. Ferdinand Von Zeppelin;Sir Frank Whittle;Roger Bacon;Leo H Baekeland;,C
+Until Victorian times, chocolate was thought of as a drink. When did the first chocolate bar appear?, ,Text,Single,Hard,Inventions ,1828;1831;1825;There is no sure date;,D
+In which decade was the telephone invented?, ,Text,Single,Hard,Inventions ,1850s;1860s;1870s;1880s;,C
+Who perfected GENETIC ENGINEERING?, ,Text,Single,Hard,Inventions ,Cohen & Boyer;Hunt & Davids;Sinclair & Roberts;Jaysson & Simons;,A
+Who invented Bakelite?, ,Text,Single,Hard,Inventions ,Charles Goodyear;Leo Hendrik Baekeland;Roy Plunkett;Henry Ford;,B
+What toy was invented by Joshua Lionel Cowen around 1900?, ,Text,Single,Hard,Inventions ,Raggedy Ann doll;Yo-yo;Electric train;Tinkertoys;,C
+This African-American woman physical therapist worked with soldiers disabled in World War II. She invented a device that helped the disabled to eat by delivering food through a tube to a mouthpiece., ,Text,Single,Hard,Inventions ,Bessie Blount;Marjorie Joyner;Mae Jamison;Beulah Henry;,A
+What invention by Garnet Carter made its debut at the Fairyland Inn Resort in Lookout Mountain, Tennessee, in 1927?, ,Text,Single,Hard,Inventions ,Miniature golf;Swimming pool slide;Ski lift;Golf cart;,A
+Who invented the phonograph?, ,Text,Single,Hard,Inventions ,Thomas Edison;John Kruesi;Jules Levy;Alexander Graham Bell;,B
+What beverage was invented by Charles Alderton in 1885 in Waco, Texas?, ,Text,Single,Hard,Inventions ,Cream soda;Coca-Cola;Dr. Pepper;Sprite;,C
+Who invented fuel cells in 1839?, ,Text,Single,Hard,Inventions ,Buckminster Fuller;Sir William Grove;Sylvester Graham;Joyce Hall;,B
+The ELECTRIC BATTERY, who's charged with inventing this one?, ,Text,Single,Hard,Inventions ,Hertz;Amper;Galvani;Volta;,D
+What now-ubiquitous device was invented by Zenith engineer Eugene Polley in 1955?, ,Text,Single,Hard,Inventions ,Microwave oven;Remote control;VCR;Calculator;,B
+What Benjamin Franklin invented?, ,Text,Single,Hard,Inventions ,Bifocal spectacles;Radio;Barometer;Hygrometer;,A
+This part-time race car driver invented the bucket seat in 1969. Who was he??, ,Text,Single,Hard,Inventions ,Steve McQueen;Harrison Frazier;Paul Newman;John Wayne;,A
+What plaything was invented by Joe McVicker in 1956?, ,Text,Single,Hard,Inventions ,Silly Putty;Etch-A-Sketch;Lite-Brite;Play-Doh;,D
+Who was the first American female to patent her invention, a method of weaving straw with silk?, ,Text,Single,Hard,Inventions ,Marjorie Joyner;Margaret Knight;Amanda Jones;Mary Kies;,D
+Who invented Gramophone?, ,Text,Single,Hard,Inventions ,Michael Faraday;Fahrenheit;Sir Alexander Graham Bell;Thomas Alva Edison;,D
+Who invented Internal Combustion Engine?, ,Text,Single,Hard,Inventions ,Roger Bacon;Karl Benz;Dr. Alan M. Turing;Otto;,D
+When was Monopoly created?, ,Text,Single,Hard,Inventions ,1940s;1930s;1920s;1950s;,B
+In which decade was the ARRL founded?, ,Text,Single,Hard,Inventions ,1940s;1930s;1920s;1910s;,D
+Who invented the Seed Drill?, ,Text,Single,Hard,Inventions ,Jethro Tull;Arlo Guthrie;Woodie Guthrie;Thomas Hines;,A
+What drink was invented by Charles Leiper Grigg in 1929?, ,Text,Single,Hard,Inventions ,7-Up;Yoo-Hoo;Pepsi;Hawaiian Punch;,A
+For what is Charles Babbage (1792-1871) remembered?, ,Text,Single,Hard,Inventions ,Computers;Telescopes;Radio-Telegraphy;Steam Boating;,A
+Who invented Automobiles using gasoline?, ,Text,Single,Hard,Inventions ,Leo H Baekeland;Karl Benz;Evangelista Torricelli;Kirkpatrick Macmillan;,B
+Who invented the battery?, ,Text,Single,Hard,Inventions ,John Wilkinson;Alessandro Volta;James Hargreaves;Thomas Edison;,B
+Where were wigs first invented?, ,Text,Single,Hard,Inventions ,Japan;France;Egypt;China;,C
+Who was the first person to patent the JET ENGINE?, ,Text,Single,Hard,Inventions ,F. Whittle;C. Lindbergh;W. Histell;B. Owings;,A
+For over 500 years, paper was only available and sold as single sheets. In 1902, an inventive Australian used half size sheets of paper, a bit of glue and cardboard to create the what?, ,Text,Single,Hard,Inventions ,Notepad;Calendar;Notice Board;Telephone Book;,A
+Who developed the idea of Crop Rotation?, ,Text,Single,Hard,Inventions ,Potato Peterson;Turnip Townsend;Cabbage Carlson;Swede Svenson;,B
+CORN FLAKES - Who made them first?, ,Text,Single,Hard,Inventions ,Nabisco;Kellogg;Quaker;Archers;,B
+William Frederick is credited with the invention of the modern frisbee in the mid 1950's. In 1957 the Wham-O Company bought his idea and the rest is history. They named the toy after William Frisbie who was a ________?, ,Text,Single,Hard,Inventions ,Pie maker;Owner of a pizza parlor;Student at Yale;Ceramic plate designer;,A
+Who came up with the idea for INSTANT MASHED POTATO?, ,Text,Single,Hard,Inventions ,S. Tuberosum;W. Raleigh;E. Asselbergs;K. Edwards;,C
+Who invented Dynamite?, ,Text,Single,Hard,Inventions ,Sir Alexander Graham Bell;Benjamin Franklin;Thomas Alva Edison;Alfred B. Nobel;,D
+What toy did George Lerner create for Hasbro company in 1952?, ,Text,Single,Hard,Inventions ,Sit and Spin;Talking baby doll;Mr. Potato Head;Hula hoop;,C
+For whom high heeled shoes were invented?, ,Text,Single,Hard,Inventions ,Cleopatra;Queen Elizabeth I;King Louis the XIV;King Charles II;,C
+In an atomic nucleus, neutrons and protons are held together by, ,Text,Single,Hard,General Science Nuclear Science ,gravitational forces;exchange forces;coulombic forces;magnetic forces;,B
+'No two electrons in an atom can have the same set of four quantum numbers' is, ,Text,Single,Hard,General Science Nuclear Science ,Newton's law;Bohr's law;Aufbau principle;Pauli's exclusion principle;,D
+According to Avogadro's Hypothesis, the smallest particle of an element or a compound, that can exist independently, is called ____ ., ,Text,Single,Hard,General Science Nuclear Science ,a molecule;a cation;an anion;an atom;,A
+Atoms of an element differ from those of all other elements in, ,Text,Single,Hard,General Science Nuclear Science ,atomic number and electronic configuration;number of neutrons and number of valence electrons;atomic number and number of valence electrons;number of neutrons and electronic configuration;,A
+Nuclear fission is caused by the impact of, ,Text,Single,Hard,General Science Nuclear Science ,neutron;proton;deuteron;electron;,A
+Which of the following has a least penetrating power?, ,Text,Single,Hard,General Science Nuclear Science ,All have same penetrating power;Beta Particles;Alpha particles;Gamma rays;,C
+The isotope of uranium capable of sustaining chain reaction is, ,Text,Single,Hard,General Science Nuclear Science ,U-235;U-245;U-239;U-238;,A
+The age of most ancient geological formations is estimated by, ,Text,Single,Hard,General Science Nuclear Science ,Ra - Si method;Potassium - argon method;C method;Uranium - lead method;,D
+Who suggested that most of the mass of the atom is located in the nucleus?, ,Text,Single,Hard,General Science Nuclear Science ,Thompson;Bohr;Rutherford;Einstein;,C
+The dark lines in the solar spectrum are due to, ,Text,Single,Hard,General Science Nuclear Science ,absorption of corresponding wavelengths by the outer layers of the sun;destructive interference between waves of certain definite wavelengths;absorption of corresponding wavelengths by the prism used in the photograph;absence of corresponding wavelengths from the light emitted by the core of the sun;,A
+The wavelength of X-rays is of the order of, ,Text,Single,Hard,General Science Nuclear Science ,10 micron;1 angstrom;1 cm;1 m;,B
+Mesons are found in, ,Text,Single,Hard,General Science Nuclear Science ,Laser beam;X-rays;Gamma rays;Cosmic rays;,D
+Which radioactive pollutant has recently drawn to public, due to its occurrence in the building material?, ,Text,Single,Hard,General Science Nuclear Science ,Thorium;Radium;Plutonium;Radan;,A
+Which of the following shows the masses of the three elementary particles in decreasing order?, ,Text,Single,Hard,General Science Nuclear Science ,Leptons, Baryons, Mesons;Mesons, Baryons, Leptons;Baryons, Mesons, Leptons;Leptons, Mesons Baryons;,C
+What is the wavelength of visible spectrum?, ,Text,Single,Hard,General Science Nuclear Science ,8500 - 9800 angstrom;7800 - 8000 angstrom;3900 - 7600 angstrom;1300 - 3000 angstrom;,C
+The major ingredient of leather is, ,Text,Single,Hard,General Science Synthetic Materials ,collagen;carbohydrate;polymer;nucleic acid;,A
+What are the soaps?, ,Text,Single,Hard,General Science Synthetic Materials ,Salts of silicates;Mixture of glycerol and alcohols;Sodium or potassium salts of heavier fatty acids;Esters of heavy fatty acids;,C
+How does common salt help in separating soap from the solution after saponification?, ,Text,Single,Hard,General Science Synthetic Materials ,By decreasing density of Soap;By decreasing solubility of Soap;By increasing density of Soap;By increasing solubility of Soap;,B
+In vulcanisation, natural rubber is heated with, ,Text,Single,Hard,General Science Synthetic Materials ,Carbon;Silicon;Sulphur;Phosphorous;,C
+Deep blue colour is imparted to glass by the presence of, ,Text,Single,Hard,General Science Synthetic Materials ,cupric oxide;nickel oxide;cobalt oxide;iron oxide;,C
+Which of the following is used for removing air bubbles from glass during its manufacture?, ,Text,Single,Hard,General Science Synthetic Materials ,Arsenous oxide;Potassium carbonate;Soda ash;Feldspar;,A
+Which of the following is a protein?, ,Text,Single,Hard,General Science Synthetic Materials ,Natural rubber;Starch;Cellulose;None of these;,A
+Wood is the main raw material for the manufacture of, ,Text,Single,Hard,General Science Synthetic Materials ,paint;paper;ink;gun powder;,B
+Rayon is chemically, ,Text,Single,Hard,General Science Synthetic Materials ,cellulose;pectin;glucose;amylase;,A
+Optic fibres are mainly used for which of the following?, ,Text,Single,Hard,General Science Synthetic Materials ,Musical instruments;Food industry;Weaving;Communication;,D
+The type of glass used in making lenses and prisms is, ,Text,Single,Hard,General Science Synthetic Materials ,jena glass;soft glass;pyrex glass;flint glass;,D
+Which one of the following is the petroleum wax?, ,Text,Single,Hard,General Science Synthetic Materials ,Paraffin wax;Jonoba wax;Carnauba wax;Bees wax;,A
+Glass is made of the mixture of, ,Text,Single,Hard,General Science Synthetic Materials ,quartz and mica;sand and silicates;salt and quartz;sand and salt;,B
+The vast resources of unutilised natural gas can be used in the production of, ,Text,Single,Hard,General Science Synthetic Materials ,graphite;Synthetic petroleum;fertilisers;carbide;,C
+Paper is manufactured by, ,Text,Single,Hard,General Science Synthetic Materials ,Wood and resin;Wood, sodium and bleaching powder;Wood, calcium, hydrogen sulphite and resin;Wood and bleaching powder;,C
+Gypsum is added to cement clinker to, ,Text,Single,Hard,General Science Synthetic Materials ,increase the tensile strength of cement;decrease the rate of setting of cement;facilitate the formation of colloidal gel;bind the particles of calcium silicate;,B
+Soap is a mixture of sodium or potassium salts of, ,Text,Single,Hard,General Science Synthetic Materials ,dicarboxylic acids;monocarboxylic acids;glycerol;tricarboxylic acids;,B
+A man completes of a job in 10 days. At this rate, how many more days will it takes him to finish the job?, ,Text,Single,Hard,Chain Rule ,5;6;7;;,B
+If a quarter kg of potato costs 60 paise, how many paise will 200 gm cost?, ,Text,Single,Hard,Chain Rule ,48 paise;54 paise;56 paise;72 paise;,A
+In a dairy farm, 40 cows eat 40 bags of husk in 40 days. In how many days one cow will eat one bag of husk?, ,Text,Single,Hard,Chain Rule ,1;;40;80;,C
+A wheel that has 6 cogs is meshed with a larger wheel of 14 cogs. When the smaller wheel has made 21 revolutions, then the number of revolutions mad by the larger wheel is:, ,Text,Single,Hard,Chain Rule ,4;9;12;49;,B
+If 7 spiders make 7 webs in 7 days, then 1 spider will make 1 web in how many days?, ,Text,Single,Hard,Chain Rule ,1;;7;49;,C
+A flagstaff 17.5 m high casts a shadow of length 40.25 m. The height of the building, which casts a shadow of length 28.75 m under similar conditions will be:, ,Text,Single,Hard,Chain Rule ,10 m;12.5 m;17.5 m;21.25 m;,B
+In a camp, there is a meal for 120 men or 200 children. If 150 children have taken the meal, how many men will be catered to with remaining meal?, ,Text,Single,Hard,Chain Rule ,20;30;40;50;,B
+An industrial loom weaves 0.128 metres of cloth every second. Approximately, how many seconds will it take for the loom to weave 25 metres of cloth?, ,Text,Single,Hard,Chain Rule ,178;195;204;488;,B
+36 men can complete a piece of work in 18 days. In how many days will 27 men complete the same work?, ,Text,Single,Hard,Chain Rule ,12;18;22;24;None of these;,D
+4 mat-weavers can weave 4 mats in 4 days. At the same rate, how many mats would be woven by 8 mat-weavers in 8 days?, ,Text,Single,Hard,Chain Rule ,4;8;12;16;,D
+Mohiniattam dance from developed originally in which state?, ,Text,Single,Hard,Indian Culture ,Tamil Nadu;Orissa;Kerala;Karnataka;,C
+Which of the following folk dance forms is associated with Gujarat?, ,Text,Single,Hard,Indian Culture ,Nautanki;Garba;Kathakali;Bhangra;,B
+Which of the following Akademis is responsible for fostering the development of dance, drama and music in India?, ,Text,Single,Hard,Indian Culture ,National School of Drama;Sangeet Akademi;Sahitya Akademi;Lalit Kala Akademi;,B
+The Rath Yatra at Puri is celebrated in honour of which Hindu deity, ,Text,Single,Hard,Indian Culture ,Ram;Jaganath;Shiva;Vishnu;,B
+The book of Parsis is, ,Text,Single,Hard,Indian Culture ,Torah;Bible;Zend Avesta;Gita;,C
+Kathak is a classical dance of, ,Text,Single,Hard,Indian Culture ,North India;Tamilnadu;Manipur;Kerala;,A
+The head quarters of Sahitya Akademi is at, ,Text,Single,Hard,Indian Culture ,Mumbai;Chennai;New Delhi;Kolkata;,C
+The dance encouraged and performance from the temple of Thanjavur was, ,Text,Single,Hard,Indian Culture ,Kathakali;Odissi;Kathak;Bharatanatyam;,D
+The last Mahakumbh of the 20th century was held at, ,Text,Single,Hard,Indian Culture ,Nasik;Ujjain;Allahabad;Haridwar;,D
+The National Song of India was composed by, ,Text,Single,Hard,Indian Culture ,Rabindranath Tagore;Bankim Chandra Chatterji;Iqbal;Jai Shankar Prasad;,B
+'Kathakali' is a folk dance prevalent in which state?, ,Text,Single,Hard,Indian Culture ,Karnataka;Orissa;Kerala;Manipur;,C
+Which of the following dances is a solo dance?, ,Text,Single,Hard,Indian Culture ,Ottan Thullal;Kuchipudi;Yakshagana;Odissi;,A
+The National Anthem was first sung in the year, ,Text,Single,Hard,Indian Culture ,1911;1913;1936;1935;,A
+Thillana is a format of, ,Text,Single,Hard,Indian Culture ,Kuchipudi;Odissi;Baharatanatyam;Kathak;,C
+'Madhubani', a style of folk paintings, is popular in which of the following states in India?, ,Text,Single,Hard,Indian Culture ,Uttar Pradesh;Rajasthan;Madhya Pradesh;Bihar;,D
+Who composed the famous song 'Sare Jahan SeAchha'?, ,Text,Single,Hard,Indian Culture ,Jaidev;Mohammad Iqbal;Bankim Chandra Chattopadhyay;Rabindranath Tagore;,B
+In which of the following festivals are boat races a special feature?, ,Text,Single,Hard,Indian Culture ,Onam;Rongali Bihu;Navratri;Pongal;,A
+Kalchakra ceremony is associated with which of the following ceremonies?, ,Text,Single,Hard,Indian Culture ,Hinduism;Buddhism;Jainism;Islam;,B
+Which of the following places is famous for Chikankari work, which is a traditional art of embroidery?, ,Text,Single,Hard,Indian Culture ,Lucknow;Hyderabad;Jaipur;Mysore;,A
+
+In a _____ a parent record type can be linked to one or more "child" record types, but a child record type can have only one parent., ,Text,Single,Hard,Database Systems ,Network database;Relational database;Distributed database;Hierarchical database;None of the above;,D
+The main idea behind computer files is that it is convenient to, ,Text,Single,Hard,Database Systems ,arrange them;store information together;create them;access them;None of the above;,B
+A network schema, ,Text,Single,Hard,Database Systems ,restricts the structure to a one-to-many relationship;permits many-to-many relation¬ships;stores data in tables;All of the above;None of the above;,B
+The logical data structure with a one-to-many relationship is a :, ,Text,Single,Hard,Database Systems ,network;tree;chain;relational;None of the above;,B
+Updating a database means, ,Text,Single,Hard,Database Systems ,revising the file structure;reorganizing the database;modifying or adding record occurrences;All of the above;None of the above;,C
+Which of the following is true of a network structure?, ,Text,Single,Hard,Database Systems ,It is a physical representation of the data;It allows a many-to-many relationship;It is conceptually simple;It will be the dominant data base of the future;None of the above;,B
+Periodically adding, changing and deleting file records is called file, ,Text,Single,Hard,Database Systems ,Updating;upgrading;restructuring;renewing;None of the above;,A
+The relational model uses some unfamiliar terminology. A tuple is equivalent to a:, ,Text,Single,Hard,Database Systems ,record;field;file;data base;data item;,A
+A list consists of last names, first names, addresses, and pin codes if all people in the list have the same last and the same pin code, a useful key would be, ,Text,Single,Hard,Database Systems ,the pin code;the last name;a compound key consisting of the first name and the last name;All of the above;None of the above;,C
+In SQL, which command(s) is(are) used to enable/disable a database trigger?, ,Text,Single,Hard,Database Systems ,MODIFY USER;CHANGE USER;ALTER TRIGGER;All of the above;None of the above;,C
+Data item characteristics that are important in data management include, ,Text,Single,Hard,Database Systems ,punctuation;language;spelling;width;None of the above;,D
+A form defines, ,Text,Single,Hard,Database Systems ,where data is placed on the screen;the width of each field;both (a) and (b);All of the above;None of the above;,C
+The data dictionary tells the DBMS, ,Text,Single,Hard,Database Systems ,what files are in the database;what attribute are possessed by the data;what these files contain;All of the above;None of the above;,D
+An-owner-member set in the CODASYL specifications may have, ,Text,Single,Hard,Database Systems ,only one owner but many owner occurrences;only one member but many member occurrence;more than one member but only one occurrence per member;All of the above;None of the above;,A
+When you have finished entering information into a form, ,Text,Single,Hard,Database Systems ,the template is written to the data file;the contents of the form are written to the data file;the contents of the form can be printed;All of the above;None of the above;,B
+A top-to-bottom relationship among the items in a database is established by a, ,Text,Single,Hard,Database Systems ,Hierarchical schema;Network schema;Relational schema;All of the above;None of the above;,A
+A database management system, ,Text,Single,Hard,Database Systems ,allows simultaneous access to multiple files;can do more than a record management system;is a collection of programs for managing data in a single file;both (a) and (b);None of the above;,D
+The highest level in the hierarchy of data organization is called, ,Text,Single,Hard,Database Systems ,data bank;database;data file;data record;None of the above;,B
+A number of related records that are treated as a unit is called, ,Text,Single,Hard,Database Systems ,file;field;data;batch;None of the above;,A
+To have a file hold a list, it is necessary to, ,Text,Single,Hard,Database Systems ,identify the records in the list;identify the name, width and type of the fields of each record.;decide which fields will be used as sort or index keys;All of the above;None of the above;,D
+If the record management system allows you to edit values before they are recorded on disk, you can, ,Text,Single,Hard,Database Systems ,correct spelling changes before they are recorded;change the name of a field;change the width of a field;All of the above;None of the above;,A
+Which of the following hardware components is the most important to the operation of a database management system?, ,Text,Single,Hard,Database Systems ,high-resolution video display;printer;high speed, large-capacity disk;plotter;mouse;,C
+The PROJECT command will create new table that has, ,Text,Single,Hard,Database Systems ,more fields than the original table;more rows than the original table;both (a) and (b);all the fields of master table;None of the above;,E
+Which command is used to remove an index from the database in SQL?, ,Text,Single,Hard,Database Systems ,DELETE INDEX;DROP INDEX;REMOVE INDEX;ROLL BACK INDEX;None of the above;,B
+The files stored on a secondary stage device are composed of a hierarchy of data. What does a record in a file contain?, ,Text,Single,Hard,Database Systems ,Bits;Characters;Data field;Schema;None of the above;,C
+If you want to group the records in the abc database, you could use the Jobcode as the _____., ,Text,Single,Hard,Database Systems ,Delete;Update;Sort Key;Index;None of the above;,C
+Sophisticated report generators can, ,Text,Single,Hard,Database Systems ,print row-oriented reports;perform arithmetic operations;selectively retrieve and print portions of a list;All of the above;None of the above;,D
+What is the language used by most of the DBMSs for helping their users to access data?, ,Text,Single,Hard,Database Systems ,High level language;Query language;SQL;4GL;None of the above;,B
+Which command is used to remove a table from the database in SQL?, ,Text,Single,Hard,Database Systems ,DELETE TABLE;DROP TABLE;ERASE TABLE;UNATTACH TABLE;None of the above;,B
+What is the name given to the database management system which is able to handle full text data, image data, audio and video?, ,Text,Single,Hard,Database Systems ,Full media;Graphics media;Multimedia;Hypertext;None of the above;,C
+After you _____ a record, many data management the environments require you to issue a command to save the changes you made., ,Text,Single,Hard,Database Systems ,Delete;Update;Sort key;Index;None of the above;,B
+In SQL, which command is used to make permanent changes made by statements issue since the beginning of a transaction?, ,Text,Single,Hard,Database Systems ,ZIP;PACK;COMMIT;SAVE;None of the above;,C
+A large computer information system maintains many different computer files. Which amongst them is called a perpetual file?, ,Text,Single,Hard,Database Systems ,Specialized file;Log file;Master file;Update file;None of the above;,C
+Which two files are used during operation of the DBMS?, ,Text,Single,Hard,Database Systems ,query language and utilities;data manipulation language and query language;data dictionary and transaction log;data dictionary and query language;None of the above;,C
+The Management Information system (MIS) structure with one main computer system is called a, ,Text,Single,Hard,Database Systems ,hierarchical MIS structure;distributed MIS structure;centralized MIS structure;decentralized MIS structure;None of the above;,C
+In SQL, GRANT command is used to, ,Text,Single,Hard,Database Systems ,allow user to access databases;allow user to create databases;grant system privileges, roles, and object privileges to uses and roles;choose auditing for specific SQL commands;None of the above;,C
+In SQL, which command is used to add new rows to a table?, ,Text,Single,Hard,Database Systems ,ALTER TABLE;ADD ROW;INSERT;APPEND;None of the above;,C
+In SQL, which command(s) is(are) used to enable/disable all triggers on a table?, ,Text,Single,Hard,Database Systems ,ALTER TRIGGERS;ALTER TABLE;MODIFY TRIGGERS IN TABLE;All of the above;None of the above;,B
+If a calculation is embedded in a form, ,Text,Single,Hard,Database Systems ,the result of the calculations are stored with the form;the calculations are stored with the form;the result of the calculations are printed in report;All of the above;None of the above;,B
+When using a database management system, the first thing that you must do is to, ,Text,Single,Hard,Database Systems ,create a database file;activate file editor;load the software into your micro¬computer;keep a floppy disk in readiness;None of the above;,C
+A file produced by a spreadsheet, ,Text,Single,Hard,Database Systems ,is generally stored on disk in an ASCII text format;can be used as it by the DBMS;can be used for graphic;All of the above;None of the above;,A
+Which of the following is not a relational database?, ,Text,Single,Hard,Database Systems ,dBASE IV;4th Dimension;FoxPro;Reflex;None of the above;,D
+Sort/report generators, ,Text,Single,Hard,Database Systems ,are faster than index/report generators;require more disk space than index/report generators;do not need to sort before generating a report;both (a) and (b);None of the above;,B
+Which of the following are Java reserved words?, ,Text,Single,Average,Objects and Collections ,1 and 2;2 and 3;3 and 4;2 and 4;,B
+Which collection class allows you to associate its elements with key values, and allows you to retrieve objects in FIFO (first-in, first-out) sequence?, ,Text,Single,Average,Objects and Collections ,java.util.ArrayList;java.util.LinkedHashMap;java.util.HashMap;java.util.TreeMap;,B
+, ,Text,Single,Average,Objects and Collections ,No statement required.;import java.io.*;;include java.io.*;;import java.io.PrintWriter;;,A
+Which interface provides the capability to store objects using a key-value pair?, ,Text,Single,Average,Objects and Collections ,Java.util.Map;Java.util.Set;Java.util.List;Java.util.Collection;,A
+What is the numerical range of char?, ,Text,Single,Average,Objects and Collections ,0 to 32767;0 to 65535;-256 to 255;-32768 to 32767;,B
+Which collection class allows you to access its elements by associating a key with an element's value, and provides synchronization?, ,Text,Single,Average,Objects and Collections ,java.util.SortedMap;java.util.TreeMap;java.util.TreeSet;java.util.Hashtable;,D
+Which is valid declaration of a float?, ,Text,Single,Average,Objects and Collections ,float f = 1F;;float f = 1.0;;float f = "1";;float f = 1.0d;;,A
+In LISP, the function X (x). (2x+l) would be rendered as, ,Text,Single,Average,Artificial Intelligence ,(lambda (x) (+(*2 x)l));(lambda (x) (+1 (* 2x);(+ lambda (x) 1 (*2x));(* lambda(x) (+2x1);None of the above;,A
+Weak AI is, ,Text,Single,Average,Artificial Intelligence ,the embodiment of human intellectual capabilities within a computer.;a set of computer programs that produce output that would be considered to reflect intelligence if it were generated by humans.;the study of mental faculties through the use of mental models implemented on a computer.;All of the above;None of the above;,C
+In which of the following areas may ICAI programs prove to be useful?, ,Text,Single,Average,Artificial Intelligence ,educational institutions;corporations;department of Defence;All of the above;None of the above;,D
+One of the leading American robotics centers is the Robotics Institute located at:, ,Text,Single,Average,Artificial Intelligence ,CMU;MIT;RAND;SRI;None of the above;,A
+A problem is first connected to its proposed solution during the _____ stage., ,Text,Single,Average,Artificial Intelligence ,conceptualization;identification;formalization;implementation.;testing;,C
+In LISP, the function assigns the symbol x to y is, ,Text,Single,Average,Artificial Intelligence ,(setq y x);(set y = 'x');(setq y = 'x');(setq y 'x');None of the above;,D
+In LISP, the function returns t if <object> is a CONS cell and nil otherwise:, ,Text,Single,Average,Artificial Intelligence ,(cons <object>);(consp <object>);(eq <object>);(cous = <object>);None of the above;,B
+What is the name of the computer program that contains the distilled knowledge of an expert?, ,Text,Single,Average,Artificial Intelligence ,Data base management system;Management information System;Expert system;Artificial intelligence;None of the above;,C
+Natural language processing is divided into the two subfields of:, ,Text,Single,Average,Artificial Intelligence ,symbolic and numeric;time and motion;algorithmic and heuristic;understanding and generation;None of the above;,D
+In a rule-based system, procedural domain knowledge is in the form of:, ,Text,Single,Average,Artificial Intelligence ,production rules;rule interpreters;meta-rules;control rules;None of the above;,A
+The hardware features of LISP machines generally include:, ,Text,Single,Average,Artificial Intelligence ,large memory and a high-speed processor;letter-quality printers and 8-inch disk drives;a mouse and a specialized keyboard;both (a) and (c);None of the above;,D
+Programming a robot by physically moving it through the trajectory you want it to follow is called:, ,Text,Single,Average,Artificial Intelligence ,contact sensing control;continuous-path control;robot vision control;pick-and-place control;None of the above;,B
+PROLOG is an AI programming language which solves problems with a form of symbolic logic known as predicate calculus. It was developed in 1972 at the University of Marseilles by a team of specialists. Can you name the person who headed this team?, ,Text,Single,Average,Artificial Intelligence ,Alain Colmerauer;Nicklaus Wirth;Seymour Papert;John McCarthy;None of the above;,A
+A natural language generation program must decide:, ,Text,Single,Average,Artificial Intelligence ,what to say;when to say something;why it is being used;both (a) and (b);None of the above;,D
+In LISP, the addition 3 + 2 is entered as, ,Text,Single,Average,Artificial Intelligence ,3 + 2;3 add 2;3 + 2 =;(+ 3 2);None of the above;,D
+What of the following is considered to be a pivotal event in the history of AI., ,Text,Single,Average,Artificial Intelligence ,1949, Donald O, The organization of Behaviour,;1950, Computing Machinery and Intelligence.;1956, Dartmouth University Conference Organized by John McCarthy;1961, Computer and Computer Sense.;None of the above;,C
+What is the name of the computer program that simulates the thought processes of human beings?, ,Text,Single,Average,Artificial Intelligence ,Human logic;Expert reason;Expert system;Personal information;None of the above;,C
+, ,Text,Single,Average,Objects and Collections ,No statement required.;import java.io.*;;include java.io.*;;import java.io.PrintWriter;;,A
+A network with named nodes and labeled arcs that can be used to represent certain natural language grammars to facilitate parsing., ,Text,Single,Average,Artificial Intelligence ,Tree Network;Star Network;Transition Network;Complete Network;None of the above;,C
+Which company offers the LISP machine considered to be "the most powerful symbolic processor available"?, ,Text,Single,Average,Artificial Intelligence ,LMI;Symbolics;Xerox;Texas Instruments;None of the above;,B
+Research scientists all over the world are taking steps towards building computers with circuits patterned after the complex inter connections existing among the human brain's nerve cells. What name is given to such type of computers?, ,Text,Single,Average,Artificial Intelligence ,Intelligent computers;Supercomputers;Neural network computers;Smart computers;None of the above;,C
+DEC advertises that it helped to create "the world's first expert system routinely used in an industrial environment," called XCON or:, ,Text,Single,Average,Artificial Intelligence ,PDP-11;Rl;VAX;MAGNOM;None of the above;,B
+The Strategic Computing Program is a project of the:, ,Text,Single,Average,Artificial Intelligence ,Defense Advanced Research Projects Agency;National Science Foundation;Jet Propulsion Laboratory;All of the above;None of the above;,A
+If a robot can alter its own trajectory in response to external conditions, it is considered to be:, ,Text,Single,Average,Artificial Intelligence ,intelligent;mobile;open loop;non-servo;None of the above;,A
+Nils Nilsson headed a team at SRI that created a mobile robot named:, ,Text,Single,Average,Artificial Intelligence ,Robitics;Dedalus;Shakey;Vax;None of the above;,C
+To invoke the LISP system, you must enter, ,Text,Single,Average,Artificial Intelligence ,AI;LISP;CL (Common Lisp);both b and c;None of the above;,D
+The original LISP machines produced by both LMI and Symbolics were based on research performed at:, ,Text,Single,Average,Artificial Intelligence ,CMU;MIT;Stanford University;RAMD;None of the above;,B
+A process that is repeated, evaluated, and refined is called:, ,Text,Single,Average,Artificial Intelligence ,diagnostic;descriptive;interpretive;iterative;None of the above;,D
+Ambiguity may be caused by:, ,Text,Single,Average,Artificial Intelligence ,syntactic ambiguity;multiple word meanings;unclear antecedents;All of the above;None of the above;,D
+High-resolution, bit-mapped displays are useful for displaying:, ,Text,Single,Average,Artificial Intelligence ,clearer characters;graphics;more characters;All of the above;None of the above;,D
+What is the numerical range of char?, ,Text,Single,Average,Objects and Collections ,0 to 32767;0 to 65535;-256 to 255;-32768 to 32767;,B
+A computer program that contains expertise in a particular domain is called an:, ,Text,Single,Average,Artificial Intelligence ,intelligent planner;automatic processor;expert system;operational symbolizer;None of the above;,C
+In LISP, the function returns the first element of a list Is, ,Text,Single,Average,Artificial Intelligence ,set;car;first;second;None of the above;,B
+Which of the following have people traditionally done better than computers?, ,Text,Single,Average,Artificial Intelligence ,recognizing relative importance;finding similarities;resolving ambiguity;All of the above;(a) and (c) above.;,D
+The field that investigates the mechanics of human intelligence is:, ,Text,Single,Average,Artificial Intelligence ,history;cognitive science;psychology;sociology;None of the above;,B
+Which type of actuator generates a good deal of power but tends to be messy?, ,Text,Single,Average,Artificial Intelligence ,electric;hydraulic;pneumatic;(B) and (c) above;None of the above;,B
+Claude Shannon described the operation of electronic switching circuits with a system of mathematical logic called:, ,Text,Single,Average,Artificial Intelligence ,LISP;XLISP;Boolean algebra;neural networking;None of the above;,C
+A bidirectional feedback loop links computer modelling with:, ,Text,Single,Average,Artificial Intelligence ,artificial science;heuristic processing;human intelligence;cognitive science;None of the above;,D
+The new organization established to implement the Fifth Generation Project is called:, ,Text,Single,Average,Artificial Intelligence ,ICOT (Institute for New Generation Computer Technology);MITI (Ministry of International Trade and Industry);MCC (Microelectronics and Computer Technology Corporation);SCP (Stategic Computing Program);None of the above;,A
+Who is considered to be the "father" of artificial intelligence?, ,Text,Single,Average,Artificial Intelligence ,Fisher Ada;John McCarthy;Allen Newell;Alan Turning;None of the above;,B
+Prior to the invention of time sharing, the prevalent method of computer access was:, ,Text,Single,Average,Artificial Intelligence ,batch processing;telecommunication;remote access;All of the above;None of the above;,A
+An AI technique that allows computers to understand associations and relationships between objects and events is called:, ,Text,Single,Average,Artificial Intelligence ,heuristic processing;cognitive science;relative symbolism;pattern matching;None of the above;,D
+Which collection class allows you to access its elements by associating a key with an element's value, and provides synchronization?, ,Text,Single,Average,Objects and Collections ,java.util.SortedMap;java.util.TreeMap;java.util.TreeSet;java.util.Hashtable;,D
+In LISP, the function evaluates both <variable> and <object> is, ,Text,Single,Average,Artificial Intelligence ,set;setq;add;eva;None of the above;,A
+In 1985, the famous chess player David Levy beat a world champion chess program in four straight games by using orthodox moves that confused the program. What was the name of the chess program?, ,Text,Single,Average,Artificial Intelligence ,Kaissa;CRAY BLITZ;Golf;DIGDUG;None of the above;,B
+The explanation facility of an expert system may be used to:, ,Text,Single,Average,Artificial Intelligence ,construct a diagnostic model;expedite the debugging process;explain the system's reasoning process;All of the above;both (b) and (c);,E
+Which of the following are Java reserved words?, ,Text,Single,Average,Objects and Collections ,1 and 2;2 and 3;3 and 4;2 and 4;,B
+Which collection class allows you to associate its elements with key values, and allows you to retrieve objects in FIFO (first-in, first-out) sequence?, ,Text,Single,Average,Objects and Collections ,java.util.ArrayList;java.util.LinkedHashMap;java.util.HashMap;java.util.TreeMap;,B
+Visual clues that are helpful in computer vision include:, ,Text,Single,Average,Artificial Intelligence ,colour and motion;depth and texture;height and weight;a and b above;None of the above;,D
+Which interface provides the capability to store objects using a key-value pair?, ,Text,Single,Average,Objects and Collections ,Java.util.Map;Java.util.Set;Java.util.List;Java.util.Collection;,A
+Seymour Papert of the MIT AI lab created a programming environment for children called:, ,Text,Single,Average,Artificial Intelligence ,BASIC;LOGO;MYCIN;FORTRAN;None of the above;,B
+Which is valid declaration of a float?, ,Text,Single,Average,Objects and Collections ,float f = 1F;;float f = 1.0;;float f = "1";;float f = 1.0d;;,A
+In LISP, the function X (x). (2x+l) would be rendered as, ,Text,Single,Average,Artificial Intelligence ,(lambda (x) (+(*2 x)l));(lambda (x) (+1 (* 2x);(+ lambda (x) 1 (*2x));(* lambda(x) (+2x1);None of the above;,A
+Which of the following are loaded into main memory when the computer is booted?, ,Text,Single,Average,Operating Systems Concepts ,internal command instructions;external command instructions;utility programs;word processing instructions;None of the above;,A
+Weak AI is, ,Text,Single,Average,Artificial Intelligence ,the embodiment of human intellectual capabilities within a computer.;a set of computer programs that produce output that would be considered to reflect intelligence if it were generated by humans.;the study of mental faculties through the use of mental models implemented on a computer.;All of the above;None of the above;,C
+In which of the following areas may ICAI programs prove to be useful?, ,Text,Single,Average,Artificial Intelligence ,educational institutions;corporations;department of Defence;All of the above;None of the above;,D
+In MS-DOS 5.0, which is the number that acts as a code to uniquely identify the software product?, ,Text,Single,Average,Operating Systems Concepts ,MS;DOS;MS DOS;5.0;None of the above;,D
+One of the leading American robotics centers is the Robotics Institute located at:, ,Text,Single,Average,Artificial Intelligence ,CMU;MIT;RAND;SRI;None of the above;,A
+A problem is first connected to its proposed solution during the _____ stage., ,Text,Single,Average,Artificial Intelligence ,conceptualization;identification;formalization;implementation.;testing;,C
+In LISP, the function assigns the symbol x to y is, ,Text,Single,Average,Artificial Intelligence ,(setq y x);(set y = 'x');(setq y = 'x');(setq y 'x');None of the above;,D
+In LISP, the function returns t if <object> is a CONS cell and nil otherwise:, ,Text,Single,Average,Artificial Intelligence ,(cons <object>);(consp <object>);(eq <object>);(cous = <object>);None of the above;,B
+What is the name of the computer program that contains the distilled knowledge of an expert?, ,Text,Single,Average,Artificial Intelligence ,Data base management system;Management information System;Expert system;Artificial intelligence;None of the above;,C
+Natural language processing is divided into the two subfields of:, ,Text,Single,Average,Artificial Intelligence ,symbolic and numeric;time and motion;algorithmic and heuristic;understanding and generation;None of the above;,D
+In a rule-based system, procedural domain knowledge is in the form of:, ,Text,Single,Average,Artificial Intelligence ,production rules;rule interpreters;meta-rules;control rules;None of the above;,A
+Thrashing, ,Text,Single,Average,Operating Systems Concepts ,is a natural consequence of virtual memory systems;can always be avoided by swapping;always occurs on large computers;can be caused by poor paging algorithms;None of the above;,D
+Page stealing, ,Text,Single,Average,Operating Systems Concepts ,is a sign of an efficient system;is taking page frames from other working sets;should be the tuning goal;is taking larger disk spaces for pages paged out;None of the above;,B
+The hardware features of LISP machines generally include:, ,Text,Single,Average,Artificial Intelligence ,large memory and a high-speed processor;letter-quality printers and 8-inch disk drives;a mouse and a specialized keyboard;both (a) and (c);None of the above;,D
+Addressing structure, ,Text,Single,Average,Operating Systems Concepts ,defines the fundamental method of determining effective operand addresses;are variations in the use of fundamental addressing structures, or some associated actions which are related to addressing.;performs indicated operations on two fast registers of the machine and leave the result in one of the registers.;all of the above;None of the above;,A
+In analyzing the compilation of PL/I program, the term "Lexical analysis" is associated with, ,Text,Single,Average,Operating Systems Concepts ,recognition of basic syntactic constructs through reductions.;recognition of basic elements and creation of uniform symbols;creation of more optional matrix.;use of macro processor to produce more optimal assembly code;None of the above;,B
+What is the name given to the values that are automatically provided by software to reduce keystrokes and improve a computer user's productivity?, ,Text,Single,Average,Operating Systems Concepts ,Defined values;Fixed values;Default values;Special values;None of the above;,C
+Programming a robot by physically moving it through the trajectory you want it to follow is called:, ,Text,Single,Average,Artificial Intelligence ,contact sensing control;continuous-path control;robot vision control;pick-and-place control;None of the above;,B
+Memory management is :, ,Text,Single,Average,Operating Systems Concepts ,not used in modern operating system;replaced with virtual memory on current systems;not used on multiprogramming systems;critical for even the simplest operating systems;None of the above;,D
+The register or main memory location which contains the effective address of the operand is known as, ,Text,Single,Average,Operating Systems Concepts ,pointer;indexed register;special location;scratch pad;None of the above;,A
+PROLOG is an AI programming language which solves problems with a form of symbolic logic known as predicate calculus. It was developed in 1972 at the University of Marseilles by a team of specialists. Can you name the person who headed this team?, ,Text,Single,Average,Artificial Intelligence ,Alain Colmerauer;Nicklaus Wirth;Seymour Papert;John McCarthy;None of the above;,A
+A natural language generation program must decide:, ,Text,Single,Average,Artificial Intelligence ,what to say;when to say something;why it is being used;both (a) and (b);None of the above;,D
+In LISP, the addition 3 + 2 is entered as, ,Text,Single,Average,Artificial Intelligence ,3 + 2;3 add 2;3 + 2 =;(+ 3 2);None of the above;,D
+What of the following is considered to be a pivotal event in the history of AI., ,Text,Single,Average,Artificial Intelligence ,1949, Donald O, The organization of Behaviour,;1950, Computing Machinery and Intelligence.;1956, Dartmouth University Conference Organized by John McCarthy;1961, Computer and Computer Sense.;None of the above;,C
+While working with MS-DOS, which command will you use to transfer a specific file from one disk to another?, ,Text,Single,Average,Operating Systems Concepts ,DISKCOPY;COPY;RENAME;FORMAT;None of the above;,B
+What is the name of the computer program that simulates the thought processes of human beings?, ,Text,Single,Average,Artificial Intelligence ,Human logic;Expert reason;Expert system;Personal information;None of the above;,C
+, ,Text,Single,Average,Objects and Collections ,No statement required.;import java.io.*;;include java.io.*;;import java.io.PrintWriter;;,A
+The Memory Buffer Register (MBR), ,Text,Single,Average,Operating Systems Concepts ,is a hardware memory device which denotes the location of the current instruction being executed.;is a group of electrical circuits (hardware), that performs the intent of instructions fetched from memory.;contains the address of the memory location that is to be read from or stored into.;contains a copy of the designated memory location specified by the MAR after a "read" or the new contents of the memory prior to a "write".;None of the above;,D
+Memory, ,Text,Single,Average,Operating Systems Concepts ,is a device that performs a sequence of operations specified by instructions in memory.;is the device where information is stored;is a sequence of instructions;is typically characterized by interactive processing and time-slicing of the CPU's time to allow quick response to each user.;None of the above;,B
+A network with named nodes and labeled arcs that can be used to represent certain natural language grammars to facilitate parsing., ,Text,Single,Average,Artificial Intelligence ,Tree Network;Star Network;Transition Network;Complete Network;None of the above;,C
+The principle of locality of reference justifies the use of, ,Text,Single,Average,Operating Systems Concepts ,reenterable;non reusable;virtual memory;cache memory;None of the above;,D
+What is the name of the operating system for the laptop computer called MacLite?, ,Text,Single,Average,Operating Systems Concepts ,Windows;DOS;MS-DOS;OZ;None of the above;,D
+Which company offers the LISP machine considered to be "the most powerful symbolic processor available"?, ,Text,Single,Average,Artificial Intelligence ,LMI;Symbolics;Xerox;Texas Instruments;None of the above;,B
+Which of the following addressing modes, facilitates access to an operand whose location is defined relative to the beginning of the data structure in which it appears?, ,Text,Single,Average,Operating Systems Concepts ,ascending;sorting;index;indirect;None of the above;,C
+Research scientists all over the world are taking steps towards building computers with circuits patterned after the complex inter connections existing among the human brain's nerve cells. What name is given to such type of computers?, ,Text,Single,Average,Artificial Intelligence ,Intelligent computers;Supercomputers;Neural network computers;Smart computers;None of the above;,C
+DEC advertises that it helped to create "the world's first expert system routinely used in an industrial environment," called XCON or:, ,Text,Single,Average,Artificial Intelligence ,PDP-11;Rl;VAX;MAGNOM;None of the above;,B
+The Strategic Computing Program is a project of the:, ,Text,Single,Average,Artificial Intelligence ,Defense Advanced Research Projects Agency;National Science Foundation;Jet Propulsion Laboratory;All of the above;None of the above;,A
+If a robot can alter its own trajectory in response to external conditions, it is considered to be:, ,Text,Single,Average,Artificial Intelligence ,intelligent;mobile;open loop;non-servo;None of the above;,A
+Nils Nilsson headed a team at SRI that created a mobile robot named:, ,Text,Single,Average,Artificial Intelligence ,Robitics;Dedalus;Shakey;Vax;None of the above;,C
+While running DOS on a PC, which command would be used to duplicate the entire diskette?, ,Text,Single,Average,Operating Systems Concepts ,COPY;DISKCOPY;CHKDSK;TYPE;None of the above;,B
+To invoke the LISP system, you must enter, ,Text,Single,Average,Artificial Intelligence ,AI;LISP;CL (Common Lisp);both b and c;None of the above;,D
+The original LISP machines produced by both LMI and Symbolics were based on research performed at:, ,Text,Single,Average,Artificial Intelligence ,CMU;MIT;Stanford University;RAMD;None of the above;,B
+A process that is repeated, evaluated, and refined is called:, ,Text,Single,Average,Artificial Intelligence ,diagnostic;descriptive;interpretive;iterative;None of the above;,D
+Which of the following statements is false?, ,Text,Single,Average,Operating Systems Concepts ,the technique of storage compaction involves moving all occupied areas of storage to one end or other of main storage;compaction does not involve relocation of programs;compaction is also know as garbage collection;the system must stop everything while it performs the compaction;None of the above;,B
+Which of the following rules out the use of GO TO?, ,Text,Single,Average,Operating Systems Concepts ,Flowchart;HIPO-DIAGRAMS;Nassi-Shneiderman diagram;All of the above;None of the above;,C
+In virtual memory systems, Dynamic address translation, ,Text,Single,Average,Operating Systems Concepts ,is the hardware necessary to implement paging;stores pages at a specific location on disk;is useless when swapping is used;is part of the operating system paging algorithm;None of the above;,A
+Ambiguity may be caused by:, ,Text,Single,Average,Artificial Intelligence ,syntactic ambiguity;multiple word meanings;unclear antecedents;All of the above;None of the above;,D
+A system program that sets up an executable program in main memory ready for execution is, ,Text,Single,Average,Operating Systems Concepts ,assembler;linker;loader;compiler;None of the above;,C
+High-resolution, bit-mapped displays are useful for displaying:, ,Text,Single,Average,Artificial Intelligence ,clearer characters;graphics;more characters;All of the above;None of the above;,D
+What is the numerical range of char?, ,Text,Single,Average,Objects and Collections ,0 to 32767;0 to 65535;-256 to 255;-32768 to 32767;,B
+A computer program that contains expertise in a particular domain is called an:, ,Text,Single,Average,Artificial Intelligence ,intelligent planner;automatic processor;expert system;operational symbolizer;None of the above;,C
+The strategy of allowing processes that are logically runnable to be temporarily suspended is called, ,Text,Single,Average,Operating Systems Concepts ,preemptive scheduling;non preemptive scheduling;shortest job first;first come first served;None of the above;,A
+What is the name given to the organized collection of software that controls the overall operation of a computer?, ,Text,Single,Average,Operating Systems Concepts ,Working system;Peripheral system;Operating system;Controlling system;None of the above;,C
+In LISP, the function returns the first element of a list Is, ,Text,Single,Average,Artificial Intelligence ,set;car;first;second;None of the above;,B
+Fragmentation of the file system, ,Text,Single,Average,Operating Systems Concepts ,occurs only if the file system is used improperly;can always be prevented;can be temporarily removed by compaction;is a characteristic of all file systems;None of the above;,C
+Which of the following have people traditionally done better than computers?, ,Text,Single,Average,Artificial Intelligence ,recognizing relative importance;finding similarities;resolving ambiguity;All of the above;(a) and (c) above.;,D
+The field that investigates the mechanics of human intelligence is:, ,Text,Single,Average,Artificial Intelligence ,history;cognitive science;psychology;sociology;None of the above;,B
+Which type of actuator generates a good deal of power but tends to be messy?, ,Text,Single,Average,Artificial Intelligence ,electric;hydraulic;pneumatic;(B) and (c) above;None of the above;,B
+Which of the following systems software does the job of merging the records from two files into one?, ,Text,Single,Average,Operating Systems Concepts ,Security software;Utility program;Networking software;Documentation system;None of the above;,B
+Claude Shannon described the operation of electronic switching circuits with a system of mathematical logic called:, ,Text,Single,Average,Artificial Intelligence ,LISP;XLISP;Boolean algebra;neural networking;None of the above;,C
+A bidirectional feedback loop links computer modelling with:, ,Text,Single,Average,Artificial Intelligence ,artificial science;heuristic processing;human intelligence;cognitive science;None of the above;,D
+Supervisor state is, ,Text,Single,Average,Operating Systems Concepts ,never used;entered by programs when they enter the processor;required to perform any I/O;only allowed to the operating system;None of the above;,D
+The new organization established to implement the Fifth Generation Project is called:, ,Text,Single,Average,Artificial Intelligence ,ICOT (Institute for New Generation Computer Technology);MITI (Ministry of International Trade and Industry);MCC (Microelectronics and Computer Technology Corporation);SCP (Stategic Computing Program);None of the above;,A
+Resolution of externally defined symbols is performed by, ,Text,Single,Average,Operating Systems Concepts ,Linker;Loader;Compiler;Assembler;None of the above;,A
+Who is considered to be the "father" of artificial intelligence?, ,Text,Single,Average,Artificial Intelligence ,Fisher Ada;John McCarthy;Allen Newell;Alan Turning;None of the above;,B
+In which addressing mode the contents of a register specified in the instruction are first decremented, and then these contents are used as the effective address of the operands?, ,Text,Single,Average,Operating Systems Concepts ,index addressing;indirect addressing;auto increment;auto decrement;None of the above;,D
+The Storage-to-Storage instructions, ,Text,Single,Average,Operating Systems Concepts ,have both their operands in the main store.;which perform an operation on a register operand and an operand which is located in the main store, generally leaving the result in the register, expect in the case of store operation when it is also written into the specified storage location.;which perform indicated operations on two fast registers of the machine and have the result in one of the registers;all of the above;None of the above;,A
+A non-relocatable program is one which, ,Text,Single,Average,Operating Systems Concepts ,cannot be made to execute in any area of storage other than the one designated for it at the time of its coding or translation.;consists of a program and relevant information for its relocation.;can itself performs the relocation of its address-sensitive portions.;all of the above;None of the above;,A
+Prior to the invention of time sharing, the prevalent method of computer access was:, ,Text,Single,Average,Artificial Intelligence ,batch processing;telecommunication;remote access;All of the above;None of the above;,A
+Fork is, ,Text,Single,Average,Operating Systems Concepts ,the dispatching of a task;the creation of a new job;the creation of a new process;increasing the priority of a task;None of the above;,C
+Assembly code data base is associated with, ,Text,Single,Average,Operating Systems Concepts ,assembly language version of the program which is created by the code generation phase and is input to the assembly phase.;a permanent table of decision rules in the form of patterns for matching with the uniform symbol table to discover syntactic structure.;consists of a full or partial list or the token's as they appear in the program. Created by Lexical analysis and used for syntax analysis and interpretation.;a permanent table which lists all key words and special symbols of the language in symbolic form.;None of the above;,A
+An AI technique that allows computers to understand associations and relationships between objects and events is called:, ,Text,Single,Average,Artificial Intelligence ,heuristic processing;cognitive science;relative symbolism;pattern matching;None of the above;,D
+Which collection class allows you to access its elements by associating a key with an element's value, and provides synchronization?, ,Text,Single,Average,Objects and Collections ,java.util.SortedMap;java.util.TreeMap;java.util.TreeSet;java.util.Hashtable;,D
+In LISP, the function evaluates both <variable> and <object> is, ,Text,Single,Average,Artificial Intelligence ,set;setq;add;eva;None of the above;,A
+In 1985, the famous chess player David Levy beat a world champion chess program in four straight games by using orthodox moves that confused the program. What was the name of the chess program?, ,Text,Single,Average,Artificial Intelligence ,Kaissa;CRAY BLITZ;Golf;DIGDUG;None of the above;,B
+User-Friendly Systems are:, ,Text,Single,Average,Operating Systems Concepts ,required for object-oriented programming;easy to develop;common among traditional mainframe operating systems;becoming more common;None of the above;,D
+The Memory Address Register, ,Text,Single,Average,Operating Systems Concepts ,is a hardware memory device which denotes the location of the current instruction being executed.;is a group of electrical circuits (hardware), that performs the intent of instructions fetched from memory.;contains the address of the memory location that is to be read from or stored into.;contains a copy of the designated memory location specified by the MAR after a "read" or the new contents of the memory prior to a "write".;None of the above;,C
+In which addressing mode the effective address of the operand is the contents of a register specified in the instruction and after accessing the operand, the contents of this register is incremented to point to the next item in the list?, ,Text,Single,Average,Operating Systems Concepts ,index addressing;indirect addressing;auto increment;auto decrement;None of the above;,C
+The memory allocation scheme subject to "external" fragmentation is, ,Text,Single,Average,Operating Systems Concepts ,segmentation;swapping;pure demand paging;multiple contiguous fixed partitions;None of the above;,A
+The explanation facility of an expert system may be used to:, ,Text,Single,Average,Artificial Intelligence ,construct a diagnostic model;expedite the debugging process;explain the system's reasoning process;All of the above;both (b) and (c);,E
+Interprocess communication, ,Text,Single,Average,Operating Systems Concepts ,is required for all processes;is usually done via disk drives;is never necessary,;allows processes to synchronize activity;,D
+Thrashing can be avoided if, ,Text,Single,Average,Operating Systems Concepts ,the pages, belonging to the working set of the programs, are in main memory;the speed of CPU is increased;the speed of I/O processor is increased;all of the above;None of the above;,A
+Which of the following are Java reserved words?, ,Text,Single,Average,Objects and Collections ,1 and 2;2 and 3;3 and 4;2 and 4;,B
+The FIFO algorithm, ,Text,Single,Average,Operating Systems Concepts ,executes first the job that last entered the queue;executes first the job that first entered the queue;execute first the job that has been in the queue the longest;executes first the job with the least processor needs;None of the above;,B
+Which collection class allows you to associate its elements with key values, and allows you to retrieve objects in FIFO (first-in, first-out) sequence?, ,Text,Single,Average,Objects and Collections ,java.util.ArrayList;java.util.LinkedHashMap;java.util.HashMap;java.util.TreeMap;,B
+System generation:, ,Text,Single,Average,Operating Systems Concepts ,is always quite simple;is always very difficult;varies in difficulty between systems;requires extensive tools to be understandable;None of the above;,C
+Visual clues that are helpful in computer vision include:, ,Text,Single,Average,Artificial Intelligence ,colour and motion;depth and texture;height and weight;a and b above;None of the above;,D
+Which of the following are(is) Language Processor(s), ,Text,Single,Average,Operating Systems Concepts ,assembles;compilers;interpreters;All of the above;None of the above;,D
+Which interface provides the capability to store objects using a key-value pair?, ,Text,Single,Average,Objects and Collections ,Java.util.Map;Java.util.Set;Java.util.List;Java.util.Collection;,A
+Bug means, ,Text,Single,Average,Operating Systems Concepts ,A logical error in a program;A difficult syntax error in a program;Documenting programs using an efficient documentation tool;All of the above;None of the above;,A
+Which of the following instruction steps, would be written within the diamond-shaped box, of a flowchart?, ,Text,Single,Average,Operating Systems Concepts ,S = B - C;IS A<10;PRINT A;DATA X,4Z;None of the above;,B
+Seymour Papert of the MIT AI lab created a programming environment for children called:, ,Text,Single,Average,Artificial Intelligence ,BASIC;LOGO;MYCIN;FORTRAN;None of the above;,B
+The LRU algorithm, ,Text,Single,Average,Operating Systems Concepts ,pages out pages that have been used recently;pages out pages that have not been used recently;pages out pages that have been least used recently;pages out the first page in a given area;None of the above;,C
+Which is valid declaration of a float?, ,Text,Single,Average,Objects and Collections ,float f = 1F;;float f = 1.0;;float f = "1";;float f = 1.0d;;,A
+Which of the following functions is(are) performed by the loader, ,Text,Single,Average,Operating Systems Concepts ,allocate space in memory for the programs and resolve symbolic references between object decks;adjust all address dependent locations, such as address constants, to correspond to the allocated space.;physically place the machine instructions and data into memory.;All of the above;None of the above;,D
+Who was awarded the first Rajiv Gandhi National Sadhavana Award?, ,Text,Single,Easy,Honours and Awards ,Archarya Tulsi;Dr. J. Rengaswamy;J. R. D Tata;Mother Teresa;,D
+'Ashoka Chakra' is awarded for, ,Text,Single,Easy,Honours and Awards ,acts of gallantry in the presence of enemy;gallantry by children;outstanding contribution to literature;the most conspicuous bravery or self sacrifice on land, air or sea but not in the presence of the enemy;,D
+On whom did the U. S. President George W. Bush bestow, in 2002, the U.S.'s highest award for life time achievement in the field of scientific research?, ,Text,Single,Easy,Honours and Awards ,Arun Netravalli;Dr.Hargoving Kohrana;Subramania Chandrasekar;Professor C. Radhakrishna Rao;,A
+To whom was 'Bharat Ratna' awarded in 1999?, ,Text,Single,Easy,Honours and Awards ,Lata Mangeshkar;Amartya Sen;M. S. Subbulakshmi;Atal Behari Vajpayee;,B
+'Global 500' awards are given for the outstanding achievement in which of the following fields?, ,Text,Single,Easy,Honours and Awards ,Campaign against AIDS;Population control;Protection of environment;Elimination of illiteracy;,C
+Tansen Samman has been instituted by the Government of?, ,Text,Single,Easy,Honours and Awards ,Gujarat;Maharashtra;Uttar Pradesh;Madhya Pradesh;,D
+The first Indira Gandhi Award for International Justice and Harmony has been given to, ,Text,Single,Easy,Honours and Awards ,Larry Pressler;Amnesty International;Hussain Ibrahim Zaki;Yasser Arafat;,D
+Which of the following films has won 9 Oscar Awards in 1987?, ,Text,Single,Easy,Honours and Awards ,The World Safari;The Last Emperor;Rain Man;Amadeus;,B
+Which is the highest gallantry award in India?, ,Text,Single,Easy,Honours and Awards ,Param Vishishtat Seva Medal;Param Vir Chakra;Kirti Chakra;Vir Chakra;,B
+Who among the following is not a recipient of the Bharatiya Jnanpith Award?, ,Text,Single,Easy,Honours and Awards ,Ashaparna Devi;M. F. Hussain;Raghupathi Sahai;V. K. Gokak;,B
+The only Indian to win the Nobel prize in physics is, ,Text,Single,Easy,Honours and Awards ,Dr. J.C. Bose;Dr. C. V. Raman;Dr. Vickram Sarabhai;Dr. H. J. Bhabha;,B
+In 1901, Nobel Prize was not given for, ,Text,Single,Easy,Honours and Awards ,Chemistry;Physics;Economics;Peace;,C
+Who is the first Asian Winner of Nobel Prize?, ,Text,Single,Easy,Honours and Awards ,C. V. Raman;Rajiv Gandhi;Rabindranath Tagore;Mother Teresa;,C
+Pulitzer prize is awarded for outstanding work in the field of, ,Text,Single,Easy,Honours and Awards ,Science and Technology;Environmental Studies;Literature and Journalism;International Understanding;,C
+The first recipient of Rajiv Gandhi's 'Khel Ratna' award is, ,Text,Single,Easy,Honours and Awards ,Vishwanathan Anand;Leander Peas;Kapil Dev;Limba Ram;,A
+The Arjuna Awards were instituted in the year, ,Text,Single,Easy,Honours and Awards ,1965;1961;1963;1957;,B
+Who among the following is not a recipient of 'Dada Saheb Phalke' Award?, ,Text,Single,Easy,Honours and Awards ,Ramanand Sagar;Raj Kapoor;V. Shantaram;Ashok Kumar;,A
+Who among the following has received a Nobel Prize in literature 1953?, ,Text,Single,Easy,Honours and Awards ,Pablo Neruda;Derek Walcott;Ernest Hemingway;Winston Churchill;,D
+The Shanti Swarup Bhatnagar Award is given by which of the following organisations?, ,Text,Single,Easy,Honours and Awards ,Council for Scientific and industrial research;Indian Council for Agricultural Research;Indian National Science Academy;ISRO;,A
+Arjuna Award is given for, ,Text,Single,Easy,Honours and Awards ,Exceptional service in emergency;Bravery on battlefield;Outstanding performance in sports;Exceptional service in slum dwellers;,C
+Which of the following famous financial journals of international repute confers 'Finance minister of the year' Award?, ,Text,Single,Easy,Honours and Awards ,Dalal Street;Business Standard;Euromoney;Money Matters;,C
+On whose name is the highest award for services to the development of cinema given?, ,Text,Single,Easy,Honours and Awards ,Raj Kapoor;Dada Saheb;Meena Kumari;Amitabh Bachchan;,B
+Manav Seva Award has been instituted in the memory of, ,Text,Single,Easy,Honours and Awards ,Rajiv Gandhi;Dr. Rajendra Prasad;Indira Gandhi;Acharya;,A
+The Nobel Prize was first awarded in, ,Text,Single,Easy,Honours and Awards ,1976;1958;1901;1972;,C
+Kalinga Award was instituted by, ,Text,Single,Easy,Honours and Awards ,UNESCO for exceptional contribution of efforts to popularise science;Indian Military.;Jnanpith, a cultural literacy society for encouraging creative writing in modern languages;Indian Adult Education Association for outstanding contribution of adult literacy in India;,A
+Who among the following is a winner of the Indira Gandhi Award for National integration?, ,Text,Single,Easy,Honours and Awards ,Aruna Asaf Ali;Ashok Kumar;Sundarlal Bahuguna;M. G. K. Menon;,A
+The first black American to win the Nobel Prize for literature is, ,Text,Single,Easy,Honours and Awards ,Aurthe Ashe;Martin Luther King;Toni Morrison;Nelson Mandela;,C
+The first recipient of Nehru Award was, ,Text,Single,Easy,Honours and Awards ,Martin Luther King;Khan Abdul Ghaffar Khan;Mother Teresa;U Thant;,D
+Saraswathi Samman is given annually for outstanding contribution to, ,Text,Single,Easy,Honours and Awards ,classical music;education;literature;fine arts;,C
+Which state Government of India has instituted the Samman Award?, ,Text,Single,Easy,Honours and Awards ,Uttar Pradesh;Himachal Pradesh;Madhya Pradesh;Andhra Pradesh;,C
+The first Indian to receive Noble Prize in Literature was, ,Text,Single,Easy,Honours and Awards ,Mother Teresa;C. V. Raman;Rabindranath Tagore;Sarojini Naidu;,C
+Sharad Joshi Samman is awarded for, ,Text,Single,Easy,Honours and Awards ,Cartoon;Satire and essay;Trade Union Activity;Social Service;,B
+Who among the following own the Nobel prize for literature?, ,Text,Single,Easy,Honours and Awards ,Linus Pauling;Samuel Beckett;Philip Noel - Baker;Ralph Bunche;,B
+The journalist who refused to accept 'Padma Bhushan' was?, ,Text,Single,Easy,Honours and Awards ,Shekaran Nair;Khushwant Singh;Ratan Thiyam;Arun Shourie;,B
+Which state gives Mewar Award?, ,Text,Single,Easy,Honours and Awards ,Haryana;Delhi;Punjab;Rajasthan;,D
+The highest civilian award of India 'Bharat Ratna' has been awarded to only two foreigners so far. One of them is Nelson Mandela. The other is, ,Text,Single,Easy,Honours and Awards ,Abdul Ghaffar khan;Mikhail Gorbachev;Marshal Tito;Abdul Wali Khan;,A
+Which of the following awards was conferred upon Smt. Aruna Asaf Ali for her role in the welfare of adult and women?, ,Text,Single,Easy,Honours and Awards ,Tagore Literacy Award;UNSECO Literacy Award;Moorti Devi Award;Kalinga Prize;,C
+The Nobel peace prize is awarded in which city?, ,Text,Single,Easy,Honours and Awards ,Oslo;Stockholm;Brussels;Geneva;,A
+Who among the following got the 'Bharat Ratna' award, before becoming the President of India?, ,Text,Single,Easy,Honours and Awards ,R. Venkatramanan;Dr. Zakir Hussain;V. V. Giri;Dr. Rajendra Prasad;,B
+The UNSECO's 'Prix Jules Verne' prize has been given to which of the following serials of Doordarshan?, ,Text,Single,Easy,Honours and Awards ,The World This Week;Surabhi;Eye Witness;Turning Point;,D
+The 'Cannes Award' is given for excellence in which field?, ,Text,Single,Easy,Honours and Awards ,Films;Journalism;Literature;Economics;,A
+Which of the following awards was conferred on Mrs. Kiran Bedi?, ,Text,Single,Easy,Honours and Awards ,Golden Globe;Rani Lakshmi;Magsaysay;Saraswati;,C
+Shanthi Swaroop Bhatnagar awards are given for, ,Text,Single,Easy,Honours and Awards ,exploring new dimensions in creative writing in Indian languages;outstanding contribution to science;creating mass awareness on environmental issues;excellence in film direction;,B
+Who was awarded the first Rajiv Gandhi National Sadhavana Award?, ,Text,Single,Easy,Honours and Awards ,Archarya Tulsi;Dr. J. Rengaswamy;J. R. D Tata;Mother Teresa;,D
+'Ashoka Chakra' is awarded for, ,Text,Single,Easy,Honours and Awards ,acts of gallantry in the presence of enemy;gallantry by children;outstanding contribution to literature;the most conspicuous bravery or self sacrifice on land, air or sea but not in the presence of the enemy;,D
+A voltmeter is used:, ,Text,Single,Easy,Voltage and Current ,to measure current;in series with the circuit;in parallel with the circuit;to measure coulombs;,C
+To whom was 'Bharat Ratna' awarded in 1999?, ,Text,Single,Easy,Honours and Awards ,Lata Mangeshkar;Amartya Sen;M. S. Subbulakshmi;Atal Behari Vajpayee;,B
+'Global 500' awards are given for the outstanding achievement in which of the following fields?, ,Text,Single,Easy,Honours and Awards ,Campaign against AIDS;Population control;Protection of environment;Elimination of illiteracy;,C
+Tansen Samman has been instituted by the Government of?, ,Text,Single,Easy,Honours and Awards ,Gujarat;Maharashtra;Uttar Pradesh;Madhya Pradesh;,D
+Which is the highest gallantry award in India?, ,Text,Single,Easy,Honours and Awards ,Param Vishishtat Seva Medal;Param Vir Chakra;Kirti Chakra;Vir Chakra;,B
+The only Indian to win the Nobel prize in physics is, ,Text,Single,Easy,Honours and Awards ,Dr. J.C. Bose;Dr. C. V. Raman;Dr. Vickram Sarabhai;Dr. H. J. Bhabha;,B
+Current is:, ,Text,Single,Easy,Voltage and Current ,the presence of a positive charge;the abundance of electrons;the movement of electrons;the repulsion of electrons;,C
+What is the name of the pressure that moves electrons in a closed circuit?, ,Text,Single,Easy,Voltage and Current ,amperes;ohms;voltage;coulombs;,C
+Current equals:, ,Text,Single,Easy,Voltage and Current ,;coulombs × time;;voltage × time;,A
+The battery symbol is:, ,Text,Single,Easy,Voltage and Current ,;;;;,B
+A secondary cell generates dc via chemical activity; a primary cell generates dc:, ,Text,Single,Easy,Voltage and Current ,electrically;thermally;optically;chemically;,D
+In 1901, Nobel Prize was not given for, ,Text,Single,Easy,Honours and Awards ,Chemistry;Physics;Economics;Peace;,C
+A short circuit will have:, ,Text,Single,Easy,Voltage and Current ,a small current flow;a large current flow;no current flow;some current flow;,B
+The first recipient of Rajiv Gandhi's 'Khel Ratna' award is, ,Text,Single,Easy,Honours and Awards ,Vishwanathan Anand;Leander Peas;Kapil Dev;Limba Ram;,A
+Who among the following is not a recipient of 'Dada Saheb Phalke' Award?, ,Text,Single,Easy,Honours and Awards ,Ramanand Sagar;Raj Kapoor;V. Shantaram;Ashok Kumar;,A
+A switch is a device that:, ,Text,Single,Easy,Voltage and Current ,short circuits complex circuits;holds a fuse;has double poles;opens or completes a current path;,D
+Current is considered as the movement of:, ,Text,Single,Easy,Voltage and Current ,electrons;protons;charge;nuclei;,A
+Which of the following famous financial journals of international repute confers 'Finance minister of the year' Award?, ,Text,Single,Easy,Honours and Awards ,Dalal Street;Business Standard;Euromoney;Money Matters;,C
+On whose name is the highest award for services to the development of cinema given?, ,Text,Single,Easy,Honours and Awards ,Raj Kapoor;Dada Saheb;Meena Kumari;Amitabh Bachchan;,B
+Manav Seva Award has been instituted in the memory of, ,Text,Single,Easy,Honours and Awards ,Rajiv Gandhi;Dr. Rajendra Prasad;Indira Gandhi;Acharya;,A
+Kalinga Award was instituted by, ,Text,Single,Easy,Honours and Awards ,UNESCO for exceptional contribution of efforts to popularise science;Indian Military.;Jnanpith, a cultural literacy society for encouraging creative writing in modern languages;Indian Adult Education Association for outstanding contribution of adult literacy in India;,A
+The removal of a non-neutral subatomic particle converts the atom into a:, ,Text,Single,Easy,Voltage and Current ,charged ion;nucleus;heavier element;compound;,A
+The charge of one coulomb is equal to:, ,Text,Single,Easy,Voltage and Current ,6.24 x 10 electrons;one ampere;one second;6.24 x 10 electrons;,D
+Which of the following statements is true?, ,Text,Single,Easy,Voltage and Current ,Unlike charges repel and like charges attract.;Like charges repel and unlike charges attract.;Unlike charges attract and like charges attract.;Like charges repel and unlike charges repel.;,B
+The first Indian to receive Noble Prize in Literature was, ,Text,Single,Easy,Honours and Awards ,Mother Teresa;C. V. Raman;Rabindranath Tagore;Sarojini Naidu;,C
+The Nobel peace prize is awarded in which city?, ,Text,Single,Easy,Honours and Awards ,Oslo;Stockholm;Brussels;Geneva;,A
+Who among the following got the 'Bharat Ratna' award, before becoming the President of India?, ,Text,Single,Easy,Honours and Awards ,R. Venkatramanan;Dr. Zakir Hussain;V. V. Giri;Dr. Rajendra Prasad;,B
+The UNSECO's 'Prix Jules Verne' prize has been given to which of the following serials of Doordarshan?, ,Text,Single,Easy,Honours and Awards ,The World This Week;Surabhi;Eye Witness;Turning Point;,D
+In practical applications, battery voltage:, ,Text,Single,Easy,Voltage and Current ,is restored as soon as disconnect occurs;is lowered as the load increases;may be stored indefinitely;will be reduced to zero as power is drawn;,B
+Which of the following awards was conferred on Mrs. Kiran Bedi?, ,Text,Single,Easy,Honours and Awards ,Golden Globe;Rani Lakshmi;Magsaysay;Saraswati;,C
+Shanthi Swaroop Bhatnagar awards are given for, ,Text,Single,Easy,Honours and Awards ,exploring new dimensions in creative writing in Indian languages;outstanding contribution to science;creating mass awareness on environmental issues;excellence in film direction;,B
+A basic electric circuit is made up of what components?, ,Text,Single,Easy,Voltage and Current ,A load, a resistor, and a conductive path for current;A voltage source, a load, and a conductive path for current;A voltage source, a conductive path for current, and a battery;A conductive path for current, a battery, and a copper wire;,B
+Which voltage source converts chemical energy to electrical energy?, ,Text,Single,Easy,Voltage and Current ,Electrical generator;Battery;Solar cell;Electronic power supply;,B
+Which electronics material opposes the movement of free electrons?, ,Text,Single,Easy,Voltage and Current ,Conductor;Insulator;Semiconductor;Element;,B
+The basic difference between a fuse and a circuit breaker is, ,Text,Single,Easy,Voltage and Current ,a fuse is slower;a fuse is reusable;a circuit breaker is reusable;a circuit breaker is more reliable;,C
+In which states may matter may be found?, ,Text,Single,Easy,Voltage and Current ,solid, liquid, or mineral;solid, gas, or liquid;mineral, gas, or liquid;plastic, solid, or gas;,B
+If 40 C of charge flow past a point in 20 s, what is the current?, ,Text,Single,Easy,Voltage and Current ,2 A;0.5 A;20 A;40 A;,A
+What type of switch is this?, ,Text,Single,Easy,Voltage and Current ,push button;SPST;DPDT;SPDT;,D
+On whom did the U. S. President George W. Bush bestow, in 2002, the U.S.'s highest award for life time achievement in the field of scientific research?, ,Text,Single,Easy,Honours and Awards ,Arun Netravalli;Dr.Hargoving Kohrana;Subramania Chandrasekar;Professor C. Radhakrishna Rao;,A
+When considering conventional current versus electron current flow:, ,Text,Single,Easy,Voltage and Current ,electron current flow came first;protons move in conventional current flow;conventional current flow came first;the direction of current is the same in both methods;,C
+Material that consists of a mixture of elements is considered to be:, ,Text,Single,Easy,Voltage and Current ,an element;an ion;a compound;a molecule;,C
+Batteries differ from fuel cells in that, ,Text,Single,Easy,Voltage and Current ,a battery is a closed system;a battery uses hydrogen and oxygen to create electricity;a battery uses a polymer electrolyte membrane;none of the above;,A
+The first Indira Gandhi Award for International Justice and Harmony has been given to, ,Text,Single,Easy,Honours and Awards ,Larry Pressler;Amnesty International;Hussain Ibrahim Zaki;Yasser Arafat;,D
+One coulomb passing a point in one second is one:, ,Text,Single,Easy,Voltage and Current ,ampere;volt;ohm;charge;,A
+Which of the following films has won 9 Oscar Awards in 1987?, ,Text,Single,Easy,Honours and Awards ,The World Safari;The Last Emperor;Rain Man;Amadeus;,B
+Who among the following is not a recipient of the Bharatiya Jnanpith Award?, ,Text,Single,Easy,Honours and Awards ,Ashaparna Devi;M. F. Hussain;Raghupathi Sahai;V. K. Gokak;,B
+Who is the first Asian Winner of Nobel Prize?, ,Text,Single,Easy,Honours and Awards ,C. V. Raman;Rajiv Gandhi;Rabindranath Tagore;Mother Teresa;,C
+Pulitzer prize is awarded for outstanding work in the field of, ,Text,Single,Easy,Honours and Awards ,Science and Technology;Environmental Studies;Literature and Journalism;International Understanding;,C
+If a fluid system is compared to an electrical system, the fluid pump will correspond to a:, ,Text,Single,Easy,Voltage and Current ,conductor;lamp;battery;insulator;,C
+The Arjuna Awards were instituted in the year, ,Text,Single,Easy,Honours and Awards ,1965;1961;1963;1957;,B
+If the current in a circuit equals 0 A, it is likely that the, ,Text,Single,Easy,Voltage and Current ,voltage is too high;resistance is too low;circuit has a short;circuit is open;,D
+A lead-acid battery is an example of a, ,Text,Single,Easy,Voltage and Current ,solar cell;fuel cell;primary battery;secondary battery;,D
+What are the unit and symbol for current?, ,Text,Single,Easy,Voltage and Current ,Ampere,;Coulomb,;Ampere,;Ampere,;,D
+Who among the following has received a Nobel Prize in literature 1953?, ,Text,Single,Easy,Honours and Awards ,Pablo Neruda;Derek Walcott;Ernest Hemingway;Winston Churchill;,D
+The Shanti Swarup Bhatnagar Award is given by which of the following organisations?, ,Text,Single,Easy,Honours and Awards ,Council for Scientific and industrial research;Indian Council for Agricultural Research;Indian National Science Academy;ISRO;,A
+Arjuna Award is given for, ,Text,Single,Easy,Honours and Awards ,Exceptional service in emergency;Bravery on battlefield;Outstanding performance in sports;Exceptional service in slum dwellers;,C
+The Nobel Prize was first awarded in, ,Text,Single,Easy,Honours and Awards ,1976;1958;1901;1972;,C
+Which is the smallest?, ,Text,Single,Easy,Voltage and Current ,atom;proton;neutron;electron;,D
+, ,Text,Single,Easy,Voltage and Current ,Electron;Neutron;Proton;All of the above;,B
+Who among the following is a winner of the Indira Gandhi Award for National integration?, ,Text,Single,Easy,Honours and Awards ,Aruna Asaf Ali;Ashok Kumar;Sundarlal Bahuguna;M. G. K. Menon;,A
+The first black American to win the Nobel Prize for literature is, ,Text,Single,Easy,Honours and Awards ,Aurthe Ashe;Martin Luther King;Toni Morrison;Nelson Mandela;,C
+If an electrical system is compared to a fluid system, the electrical current corresponds to the:, ,Text,Single,Easy,Voltage and Current ,pressure;pump;water wheel;water flow;,D
+Which unit of charge contains 6.25 × 10electrons?, ,Text,Single,Easy,Voltage and Current ,An ampere;A coulomb;A volt;A joule;,B
+The first recipient of Nehru Award was, ,Text,Single,Easy,Honours and Awards ,Martin Luther King;Khan Abdul Ghaffar Khan;Mother Teresa;U Thant;,D
+Saraswathi Samman is given annually for outstanding contribution to, ,Text,Single,Easy,Honours and Awards ,classical music;education;literature;fine arts;,C
+What do you call a diagram that shows the electrical connections of a circuit's components?, ,Text,Single,Easy,Voltage and Current ,A schematic diagram;A pictorial diagram;A block diagram;An electrical diagram;,A
+What is a characteristic of a secondary cell?, ,Text,Single,Easy,Voltage and Current ,rechargeability;not rechargeable;a dry cell;non-liquid;,A
+Primary batteries, unlike secondary batteries, may be:, ,Text,Single,Easy,Voltage and Current ,charged once;used once;recharged over and over;stored indefinitely;,B
+Which state Government of India has instituted the Samman Award?, ,Text,Single,Easy,Honours and Awards ,Uttar Pradesh;Himachal Pradesh;Madhya Pradesh;Andhra Pradesh;,C
+The term used to designate electrical pressure is:, ,Text,Single,Easy,Voltage and Current ,voltage;current;resistance;conductance;,A
+Sharad Joshi Samman is awarded for, ,Text,Single,Easy,Honours and Awards ,Cartoon;Satire and essay;Trade Union Activity;Social Service;,B
+An example of potential energy is:, ,Text,Single,Easy,Voltage and Current ,tea-kettle steam;a moving vehicle;the sun;a battery;,D
+Who among the following own the Nobel prize for literature?, ,Text,Single,Easy,Honours and Awards ,Linus Pauling;Samuel Beckett;Philip Noel - Baker;Ralph Bunche;,B
+An ammeter is used to measure, ,Text,Single,Easy,Voltage and Current ,voltage;current;resistance;All of the above;,B
+The journalist who refused to accept 'Padma Bhushan' was?, ,Text,Single,Easy,Honours and Awards ,Shekaran Nair;Khushwant Singh;Ratan Thiyam;Arun Shourie;,B
+Which state gives Mewar Award?, ,Text,Single,Easy,Honours and Awards ,Haryana;Delhi;Punjab;Rajasthan;,D
+The highest civilian award of India 'Bharat Ratna' has been awarded to only two foreigners so far. One of them is Nelson Mandela. The other is, ,Text,Single,Easy,Honours and Awards ,Abdul Ghaffar khan;Mikhail Gorbachev;Marshal Tito;Abdul Wali Khan;,A
+Which of the following awards was conferred upon Smt. Aruna Asaf Ali for her role in the welfare of adult and women?, ,Text,Single,Easy,Honours and Awards ,Tagore Literacy Award;UNSECO Literacy Award;Moorti Devi Award;Kalinga Prize;,C
+An element is a substance that is:, ,Text,Single,Easy,Voltage and Current ,varied throughout the entire piece;used only in electronics;electrically charged;found only in its pure form;,D
+The negative and positive charge symbols are assigned (in that order) to the:, ,Text,Single,Easy,Voltage and Current ,proton and electron;electron and proton;atom and nucleus;electron and element;,B
+The 'Cannes Award' is given for excellence in which field?, ,Text,Single,Easy,Honours and Awards ,Films;Journalism;Literature;Economics;,A
+How many valence shell electrons are there in semiconductor atoms?, ,Text,Single,Easy,Voltage and Current ,16;8;4;2;,C
+What are the basic building blocks that all matter is composed of?, ,Text,Single,Easy,Voltage and Current ,electrons, neutrons, and protons;two protons for each neutron;two protons for each electron;electrons, neutrons, and charged ions;,A
+'Ashoka Chakra' is awarded for, ,Text,Single,Easy,Honours and Awards ,acts of gallantry in the presence of enemy;gallantry by children;outstanding contribution to literature;the most conspicuous bravery or self sacrifice on land, air or sea but not in the presence of the enemy;,D
+A voltmeter is used:, ,Text,Single,Easy,Voltage and Current ,to measure current;in series with the circuit;in parallel with the circuit;to measure coulombs;,C
+To whom was 'Bharat Ratna' awarded in 1999?, ,Text,Single,Easy,Honours and Awards ,Lata Mangeshkar;Amartya Sen;M. S. Subbulakshmi;Atal Behari Vajpayee;,B
+'Global 500' awards are given for the outstanding achievement in which of the following fields?, ,Text,Single,Easy,Honours and Awards ,Campaign against AIDS;Population control;Protection of environment;Elimination of illiteracy;,C
+National School of Mines is located in ?, ,Text,Single,Easy,Famous Places in India ,Dhanbad;Kavalpur;Udaipur;Hyderabad;,A
+The National Institute of Community Development is located at, ,Text,Single,Easy,Famous Places in India ,Chennai;Pant Nagar;Hyderabad;Bangalore;,C
+Which is the highest gallantry award in India?, ,Text,Single,Easy,Honours and Awards ,Param Vishishtat Seva Medal;Param Vir Chakra;Kirti Chakra;Vir Chakra;,B
+The only Indian to win the Nobel prize in physics is, ,Text,Single,Easy,Honours and Awards ,Dr. J.C. Bose;Dr. C. V. Raman;Dr. Vickram Sarabhai;Dr. H. J. Bhabha;,B
+Current is:, ,Text,Single,Easy,Voltage and Current ,the presence of a positive charge;the abundance of electrons;the movement of electrons;the repulsion of electrons;,C
+The battery symbol is:, ,Text,Single,Easy,Voltage and Current ,;;;;,B
+Siachen is a, ,Text,Single,Easy,Famous Places in India ,desert frontier zone between India and Pakistan;frontier zone between China and India;frontier zone between India and Myanmar;glacier frontier zone between India and Pakistan;,D
+National Institute of Aeronautical Engineering is located at, ,Text,Single,Easy,Famous Places in India ,Dehradun;Lucknow;Bangalore;Delhi;,D
+The famous Rock Garden is located in which city?, ,Text,Single,Easy,Famous Places in India ,Jaipur;Lucknow;Simla;Chandigarh;,D
+The first recipient of Rajiv Gandhi's 'Khel Ratna' award is, ,Text,Single,Easy,Honours and Awards ,Vishwanathan Anand;Leander Peas;Kapil Dev;Limba Ram;,A
+Which city is known as 'Electronic City of India'?, ,Text,Single,Easy,Famous Places in India ,Mumbai;Hyderabad;Guragon;Bangalore;,D
+Under Mother Teresa's guidance, the Missionaries of Charit built near Asansol, a lep er colony is called, ,Text,Single,Easy,Famous Places in India ,Peace City;Sahara;Shanti Nagar;SOS;,C
+Who among the following is not a recipient of 'Dada Saheb Phalke' Award?, ,Text,Single,Easy,Honours and Awards ,Ramanand Sagar;Raj Kapoor;V. Shantaram;Ashok Kumar;,A
+Current is considered as the movement of:, ,Text,Single,Easy,Voltage and Current ,electrons;protons;charge;nuclei;,A
+National Science Centre is located at, ,Text,Single,Easy,Famous Places in India ,Bangalore;Bombay;Kolkata;Delhi;,D
+Which of the following famous financial journals of international repute confers 'Finance minister of the year' Award?, ,Text,Single,Easy,Honours and Awards ,Dalal Street;Business Standard;Euromoney;Money Matters;,C
+On whose name is the highest award for services to the development of cinema given?, ,Text,Single,Easy,Honours and Awards ,Raj Kapoor;Dada Saheb;Meena Kumari;Amitabh Bachchan;,B
+Which is known as 'Garden City of India'?, ,Text,Single,Easy,Famous Places in India ,Trivandram;Imphal;Simla;Bangalore;,D
+Central Road Research Institute is in, ,Text,Single,Easy,Famous Places in India ,Delhi;Bangalore;Roorkee;Hyderabad;,A
+The charge of one coulomb is equal to:, ,Text,Single,Easy,Voltage and Current ,6.24 x 10 electrons;one ampere;one second;6.24 x 10 electrons;,D
+Badrinath is situated on the bank of river, ,Text,Single,Easy,Famous Places in India ,Ganga;Yamuna;Alaknanda;Saraswathi;,C
+Which of the following statements is true?, ,Text,Single,Easy,Voltage and Current ,Unlike charges repel and like charges attract.;Like charges repel and unlike charges attract.;Unlike charges attract and like charges attract.;Like charges repel and unlike charges repel.;,B
+Golden Temple is situated in, ,Text,Single,Easy,Famous Places in India ,New Delhi;Agra;Amritsar;Mumbai;,C
+The first Indian to receive Noble Prize in Literature was, ,Text,Single,Easy,Honours and Awards ,Mother Teresa;C. V. Raman;Rabindranath Tagore;Sarojini Naidu;,C
+National Institute of Nutrition is located in which of the following place?, ,Text,Single,Easy,Famous Places in India ,Bangalore;Kerala;Gandhinagar;Hyderabad;,D
+Which city is called 'White City' of Rajasthan?, ,Text,Single,Easy,Famous Places in India ,Bihar;Jaipur;Udaipur;Jodhpur;,C
+In practical applications, battery voltage:, ,Text,Single,Easy,Voltage and Current ,is restored as soon as disconnect occurs;is lowered as the load increases;may be stored indefinitely;will be reduced to zero as power is drawn;,B
+Where is the 'National Remote Sensing Agency' situated?, ,Text,Single,Easy,Famous Places in India ,Shadnagar;Bangalore;Chennai;Dehradun;,A
+Which of the following awards was conferred on Mrs. Kiran Bedi?, ,Text,Single,Easy,Honours and Awards ,Golden Globe;Rani Lakshmi;Magsaysay;Saraswati;,C
+Shanthi Swaroop Bhatnagar awards are given for, ,Text,Single,Easy,Honours and Awards ,exploring new dimensions in creative writing in Indian languages;outstanding contribution to science;creating mass awareness on environmental issues;excellence in film direction;,B
+A basic electric circuit is made up of what components?, ,Text,Single,Easy,Voltage and Current ,A load, a resistor, and a conductive path for current;A voltage source, a load, and a conductive path for current;A voltage source, a conductive path for current, and a battery;A conductive path for current, a battery, and a copper wire;,B
+Which electronics material opposes the movement of free electrons?, ,Text,Single,Easy,Voltage and Current ,Conductor;Insulator;Semiconductor;Element;,B
+If 40 C of charge flow past a point in 20 s, what is the current?, ,Text,Single,Easy,Voltage and Current ,2 A;0.5 A;20 A;40 A;,A
+When considering conventional current versus electron current flow:, ,Text,Single,Easy,Voltage and Current ,electron current flow came first;protons move in conventional current flow;conventional current flow came first;the direction of current is the same in both methods;,C
+Material that consists of a mixture of elements is considered to be:, ,Text,Single,Easy,Voltage and Current ,an element;an ion;a compound;a molecule;,C
+The first Indira Gandhi Award for International Justice and Harmony has been given to, ,Text,Single,Easy,Honours and Awards ,Larry Pressler;Amnesty International;Hussain Ibrahim Zaki;Yasser Arafat;,D
+Which of the following films has won 9 Oscar Awards in 1987?, ,Text,Single,Easy,Honours and Awards ,The World Safari;The Last Emperor;Rain Man;Amadeus;,B
+Who among the following is not a recipient of the Bharatiya Jnanpith Award?, ,Text,Single,Easy,Honours and Awards ,Ashaparna Devi;M. F. Hussain;Raghupathi Sahai;V. K. Gokak;,B
+Where is the National Institute of Virology situated?, ,Text,Single,Easy,Famous Places in India ,Pune;Delhi;Kolkata;Madras;,A
+Pulitzer prize is awarded for outstanding work in the field of, ,Text,Single,Easy,Honours and Awards ,Science and Technology;Environmental Studies;Literature and Journalism;International Understanding;,C
+A lead-acid battery is an example of a, ,Text,Single,Easy,Voltage and Current ,solar cell;fuel cell;primary battery;secondary battery;,D
+Arjuna Award is given for, ,Text,Single,Easy,Honours and Awards ,Exceptional service in emergency;Bravery on battlefield;Outstanding performance in sports;Exceptional service in slum dwellers;,C
+Vikram Sarabhai Space Centre is located at, ,Text,Single,Easy,Famous Places in India ,Pune;Ahmedabad;Sriharikota;Thiruvananthapuram;,D
+The Nobel Prize was first awarded in, ,Text,Single,Easy,Honours and Awards ,1976;1958;1901;1972;,C
+Which is the smallest?, ,Text,Single,Easy,Voltage and Current ,atom;proton;neutron;electron;,D
+Which unit of charge contains 6.25 × 10electrons?, ,Text,Single,Easy,Voltage and Current ,An ampere;A coulomb;A volt;A joule;,B
+'Bagh', a village in Gwalior is famous for, ,Text,Single,Easy,Famous Places in India ,Sculptures;Architecture;Cave Painting;All of the above;,C
+The Dr. Babasaheb Ambedkar Marathwada University is at which of the following places?, ,Text,Single,Easy,Famous Places in India ,Aurangabad;Nanded;Parbhani;Nagpur;,A
+The first recipient of Nehru Award was, ,Text,Single,Easy,Honours and Awards ,Martin Luther King;Khan Abdul Ghaffar Khan;Mother Teresa;U Thant;,D
+What do you call a diagram that shows the electrical connections of a circuit's components?, ,Text,Single,Easy,Voltage and Current ,A schematic diagram;A pictorial diagram;A block diagram;An electrical diagram;,A
+Which state Government of India has instituted the Samman Award?, ,Text,Single,Easy,Honours and Awards ,Uttar Pradesh;Himachal Pradesh;Madhya Pradesh;Andhra Pradesh;,C
+The term used to designate electrical pressure is:, ,Text,Single,Easy,Voltage and Current ,voltage;current;resistance;conductance;,A
+An ammeter is used to measure, ,Text,Single,Easy,Voltage and Current ,voltage;current;resistance;All of the above;,B
+Which state gives Mewar Award?, ,Text,Single,Easy,Honours and Awards ,Haryana;Delhi;Punjab;Rajasthan;,D
+The highest civilian award of India 'Bharat Ratna' has been awarded to only two foreigners so far. One of them is Nelson Mandela. The other is, ,Text,Single,Easy,Honours and Awards ,Abdul Ghaffar khan;Mikhail Gorbachev;Marshal Tito;Abdul Wali Khan;,A
+Which of the following awards was conferred upon Smt. Aruna Asaf Ali for her role in the welfare of adult and women?, ,Text,Single,Easy,Honours and Awards ,Tagore Literacy Award;UNSECO Literacy Award;Moorti Devi Award;Kalinga Prize;,C
+An element is a substance that is:, ,Text,Single,Easy,Voltage and Current ,varied throughout the entire piece;used only in electronics;electrically charged;found only in its pure form;,D
+The 'Cannes Award' is given for excellence in which field?, ,Text,Single,Easy,Honours and Awards ,Films;Journalism;Literature;Economics;,A
+'Vijay Stambha' is situated in, ,Text,Single,Easy,Famous Places in India ,Jaipur;Agra;Delhi;Chittor;,D
+How many valence shell electrons are there in semiconductor atoms?, ,Text,Single,Easy,Voltage and Current ,16;8;4;2;,C
+The Central Rice Research institute is located at, ,Text,Single,Easy,Famous Places in India ,Rajamundry;Madra;Cuttack;Cochin;,C
+Who was awarded the first Rajiv Gandhi National Sadhavana Award?, ,Text,Single,Easy,Honours and Awards ,Archarya Tulsi;Dr. J. Rengaswamy;J. R. D Tata;Mother Teresa;,D
+Tansen Samman has been instituted by the Government of?, ,Text,Single,Easy,Honours and Awards ,Gujarat;Maharashtra;Uttar Pradesh;Madhya Pradesh;,D
+What is the name of the pressure that moves electrons in a closed circuit?, ,Text,Single,Easy,Voltage and Current ,amperes;ohms;voltage;coulombs;,C
+Current equals:, ,Text,Single,Easy,Voltage and Current ,;coulombs × time;;voltage × time;,A
+Sanchi Stupa is located near, ,Text,Single,Easy,Famous Places in India ,Gaya;Bhopal;Varanasi;Bijapur;,B
+A secondary cell generates dc via chemical activity; a primary cell generates dc:, ,Text,Single,Easy,Voltage and Current ,electrically;thermally;optically;chemically;,D
+In 1901, Nobel Prize was not given for, ,Text,Single,Easy,Honours and Awards ,Chemistry;Physics;Economics;Peace;,C
+The 'Golconda Fort' is in which state?, ,Text,Single,Easy,Famous Places in India ,Telangana;Uttar Pradesh;Bihar;Karnataka;,A
+A short circuit will have:, ,Text,Single,Easy,Voltage and Current ,a small current flow;a large current flow;no current flow;some current flow;,B
+A switch is a device that:, ,Text,Single,Easy,Voltage and Current ,short circuits complex circuits;holds a fuse;has double poles;opens or completes a current path;,D
+'Mandi House' is a, ,Text,Single,Easy,Famous Places in India ,the office of the P.M.;the office of Director General of Doordarshan;the office of NFDC;the Doordarshan C.P.C;,B
+Manav Seva Award has been instituted in the memory of, ,Text,Single,Easy,Honours and Awards ,Rajiv Gandhi;Dr. Rajendra Prasad;Indira Gandhi;Acharya;,A
+Kalinga Award was instituted by, ,Text,Single,Easy,Honours and Awards ,UNESCO for exceptional contribution of efforts to popularise science;Indian Military.;Jnanpith, a cultural literacy society for encouraging creative writing in modern languages;Indian Adult Education Association for outstanding contribution of adult literacy in India;,A
+The removal of a non-neutral subatomic particle converts the atom into a:, ,Text,Single,Easy,Voltage and Current ,charged ion;nucleus;heavier element;compound;,A
+The Indian Institute of Science is located at, ,Text,Single,Easy,Famous Places in India ,Kerala;Madras;Bangalore;New Delhi;,C
+Central Drug Research Institute is located at, ,Text,Single,Easy,Famous Places in India ,Trissur;Nagpur;Mysore;Lucknow;,D
+Central Arid Zone Research Institute is located in, ,Text,Single,Easy,Famous Places in India ,Bihar;Gujarat;Rajasthan;Madhya Pradesh;,C
+Where is Chitrakut situated?, ,Text,Single,Easy,Famous Places in India ,Maharashtra;Uttar Pradesh;Bihar;Madhya Pradesh;,B
+Which of the following place is famous for its gigantic rock-cut statue of Buddha?, ,Text,Single,Easy,Famous Places in India ,Bamiyan;Borobudur;Anuradhapuram;Angor Vat;,A
+The Nobel peace prize is awarded in which city?, ,Text,Single,Easy,Honours and Awards ,Oslo;Stockholm;Brussels;Geneva;,A
+Who among the following got the 'Bharat Ratna' award, before becoming the President of India?, ,Text,Single,Easy,Honours and Awards ,R. Venkatramanan;Dr. Zakir Hussain;V. V. Giri;Dr. Rajendra Prasad;,B
+The UNSECO's 'Prix Jules Verne' prize has been given to which of the following serials of Doordarshan?, ,Text,Single,Easy,Honours and Awards ,The World This Week;Surabhi;Eye Witness;Turning Point;,D
+Indian Cancer Research institute is located at, ,Text,Single,Easy,Famous Places in India ,New Delhi;Calcutta;Chennai;Mumbai;,D
+Which voltage source converts chemical energy to electrical energy?, ,Text,Single,Easy,Voltage and Current ,Electrical generator;Battery;Solar cell;Electronic power supply;,B
+The basic difference between a fuse and a circuit breaker is, ,Text,Single,Easy,Voltage and Current ,a fuse is slower;a fuse is reusable;a circuit breaker is reusable;a circuit breaker is more reliable;,C
+In which states may matter may be found?, ,Text,Single,Easy,Voltage and Current ,solid, liquid, or mineral;solid, gas, or liquid;mineral, gas, or liquid;plastic, solid, or gas;,B
+What type of switch is this?, ,Text,Single,Easy,Voltage and Current ,push button;SPST;DPDT;SPDT;,D
+'Kanchipuram' is in which of the following states?, ,Text,Single,Easy,Famous Places in India ,Andhra Pradesh;Orissa;Kerala;Tamil Nadu;,D
+On whom did the U. S. President George W. Bush bestow, in 2002, the U.S.'s highest award for life time achievement in the field of scientific research?, ,Text,Single,Easy,Honours and Awards ,Arun Netravalli;Dr.Hargoving Kohrana;Subramania Chandrasekar;Professor C. Radhakrishna Rao;,A
+Batteries differ from fuel cells in that, ,Text,Single,Easy,Voltage and Current ,a battery is a closed system;a battery uses hydrogen and oxygen to create electricity;a battery uses a polymer electrolyte membrane;none of the above;,A
+One coulomb passing a point in one second is one:, ,Text,Single,Easy,Voltage and Current ,ampere;volt;ohm;charge;,A
+Sun Temple is situated at?, ,Text,Single,Easy,Famous Places in India ,Konark;Bangalore;Haridwar;Kerala;,A
+The famous Meenakshi temple is located in, ,Text,Single,Easy,Famous Places in India ,Bihar;Madurai;Madras;Trichy;,B
+The world famous 'Khajuraho' sculptures are located in, ,Text,Single,Easy,Famous Places in India ,Gujarat;Madhya Pradesh;Orissa;Maharashtra;,B
+Indian School of Mines is located in, ,Text,Single,Easy,Famous Places in India ,Dhanbad;Asansol;Tatanagar;Rourkela;,A
+Who is the first Asian Winner of Nobel Prize?, ,Text,Single,Easy,Honours and Awards ,C. V. Raman;Rajiv Gandhi;Rabindranath Tagore;Mother Teresa;,C
+If a fluid system is compared to an electrical system, the fluid pump will correspond to a:, ,Text,Single,Easy,Voltage and Current ,conductor;lamp;battery;insulator;,C
+The Arjuna Awards were instituted in the year, ,Text,Single,Easy,Honours and Awards ,1965;1961;1963;1957;,B
+If the current in a circuit equals 0 A, it is likely that the, ,Text,Single,Easy,Voltage and Current ,voltage is too high;resistance is too low;circuit has a short;circuit is open;,D
+What are the unit and symbol for current?, ,Text,Single,Easy,Voltage and Current ,Ampere,;Coulomb,;Ampere,;Ampere,;,D
+Who among the following has received a Nobel Prize in literature 1953?, ,Text,Single,Easy,Honours and Awards ,Pablo Neruda;Derek Walcott;Ernest Hemingway;Winston Churchill;,D
+The Shanti Swarup Bhatnagar Award is given by which of the following organisations?, ,Text,Single,Easy,Honours and Awards ,Council for Scientific and industrial research;Indian Council for Agricultural Research;Indian National Science Academy;ISRO;,A
+Ajanta-Ellora caves are situated near, ,Text,Single,Easy,Famous Places in India ,Ajmer;Jaipur;Patna;Aurangabad;,D
+The 'satellite freight city' is being developed near which of the following cities?, ,Text,Single,Easy,Famous Places in India ,New Delhi;Orissa;Gurgaon;Kolkata;,C
+The 'Char Minar' is in, ,Text,Single,Easy,Famous Places in India ,Ahmedabad;Hyderabad;Delhi;Sikri;,B
+, ,Text,Single,Easy,Voltage and Current ,Electron;Neutron;Proton;All of the above;,B
+Who among the following is a winner of the Indira Gandhi Award for National integration?, ,Text,Single,Easy,Honours and Awards ,Aruna Asaf Ali;Ashok Kumar;Sundarlal Bahuguna;M. G. K. Menon;,A
+The first black American to win the Nobel Prize for literature is, ,Text,Single,Easy,Honours and Awards ,Aurthe Ashe;Martin Luther King;Toni Morrison;Nelson Mandela;,C
+If an electrical system is compared to a fluid system, the electrical current corresponds to the:, ,Text,Single,Easy,Voltage and Current ,pressure;pump;water wheel;water flow;,D
+Saraswathi Samman is given annually for outstanding contribution to, ,Text,Single,Easy,Honours and Awards ,classical music;education;literature;fine arts;,C
+What is a characteristic of a secondary cell?, ,Text,Single,Easy,Voltage and Current ,rechargeability;not rechargeable;a dry cell;non-liquid;,A
+Primary batteries, unlike secondary batteries, may be:, ,Text,Single,Easy,Voltage and Current ,charged once;used once;recharged over and over;stored indefinitely;,B
+'Kandla' is situated on the Gulf of Kachh is well known for which of the following?, ,Text,Single,Easy,Famous Places in India ,Export Processing Zone;Centre for Marine Food products;Cutting and Polishing of diamonds;Ship breaking industry;,A
+Sharad Joshi Samman is awarded for, ,Text,Single,Easy,Honours and Awards ,Cartoon;Satire and essay;Trade Union Activity;Social Service;,B
+An example of potential energy is:, ,Text,Single,Easy,Voltage and Current ,tea-kettle steam;a moving vehicle;the sun;a battery;,D
+Who among the following own the Nobel prize for literature?, ,Text,Single,Easy,Honours and Awards ,Linus Pauling;Samuel Beckett;Philip Noel - Baker;Ralph Bunche;,B
+The journalist who refused to accept 'Padma Bhushan' was?, ,Text,Single,Easy,Honours and Awards ,Shekaran Nair;Khushwant Singh;Ratan Thiyam;Arun Shourie;,B
+National Archives is located at?, ,Text,Single,Easy,Famous Places in India ,Calcutta;Dehradun;Bombay;New Delhi;,D
+Where is the headquarters of Oil and Natural Gas Commission?, ,Text,Single,Easy,Famous Places in India ,Dehradun;Vadodara;Digboi;Mumbai;,A
+The negative and positive charge symbols are assigned (in that order) to the:, ,Text,Single,Easy,Voltage and Current ,proton and electron;electron and proton;atom and nucleus;electron and element;,B
+National Police Academy is located at, ,Text,Single,Easy,Famous Places in India ,Bangalore;Hyderabad;Abu Road;Dehradun;,B
+'Tin Bhiga' lease by India to Bangladesh, was a part of, ,Text,Single,Easy,Famous Places in India ,West Bengal;Assam;Meghalaya;Tripura;,A
+The world famous Ajanta caves are situated in, ,Text,Single,Easy,Famous Places in India ,Orissa;Andhra Pradesh;Kerala;Maharashtra;,D
+The headquarters of the National Power Training institute is located in, ,Text,Single,Easy,Famous Places in India ,Pune;Bhopal;Faridabad;Lucknow;,C
+What are the basic building blocks that all matter is composed of?, ,Text,Single,Easy,Voltage and Current ,electrons, neutrons, and protons;two protons for each neutron;two protons for each electron;electrons, neutrons, and charged ions;,A
+This one is intended to be a confidence builder. These are diamonds. Diamonds are pure:,https://www.thoughtco.com/thmb/bORUDzdznV2AzCzV3jGumQBhmPI=/768x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-102635591-56acf9ec5f9b58b7d00ad548.jpg,Image,Single,Easy,Chemistry,boron;carbon;iron;nitrogen;oxygen,carbon
+You may encounter this element in pure form fairly often. This metallic element is:,https://www.thoughtco.com/thmb/Sju5hThXDc4CqLic95pdh0oz4dI=/768x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-598738073-56ad02f65f9b58b7d00ad92b.jpg,Image,Single,Easy,Chemistry,brass;bronze;copper;gold;zinc,copper
+This metallic element is a liquid at room temperature. It is:,https://www.thoughtco.com/thmb/0zuMF7QcN5kiX7WTANqYc_hcy-s=/768x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-98134700-56a133ff5f9b58b7d0bcff85.jpg,Image,Single,Easy,Chemistry,bromine;iodine;iron;lead;mercury,mercury
+This yellow element is a component of gunpowder. The area being mined is a hint. This element is:,https://www.thoughtco.com/thmb/75MLgEDqfMw19bi0VdJjyI9DFZY=/768x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-524414867-56acfb9c3df78cf772b66263.jpg,Image,Single,Easy,Chemistry,chlorine;copper;gold;selenium;sulfur,sulfur
+This metal occurs in its pure form, but it is usually encountered as an alloy. The element is:,https://www.thoughtco.com/thmb/1Mu0NlQMxu_MKYBRlH_wJ72Pv6s=/768x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-546417187-56ad02a83df78cf772b66530.jpg,Image,Single,Easy,Chemistry,brass;copper;gold;iridium;platinum,gold
+The big clue for this metal's identity is how it is being used in the photo. This element is:,https://www.thoughtco.com/thmb/fOLMnrNJGRA2wu5-2Uh1s_6Uu9E=/768x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-563523387-56acfd063df78cf772b662c1.jpg,Image,Single,Easy,Chemistry,beryllium;iron;lead;silicon;zinc,lead
+The air you breathe is mostly this element. In liquid form, it's extremely cold. The element is:,https://www.thoughtco.com/thmb/fdC0ne-b5FqPScHOnydK8KOhQNM=/768x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-478187235-56acff0f3df78cf772b663c0.jpg,Image,Single,Easy,Chemistry,chlorine;oxygen;hydrogen;nitrogen;radon,nitrogen
+You would wear protective gloves to hold this radioactive element, which feels warm. It is:,https://www.thoughtco.com/thmb/yb16KjaEcuEhKWClQHDF09DcPhg=/768x300/filters:no_upscale():max_bytes(150000):strip_icc()/uranium2-57e1bb423df78c9cce33a0e9.jpg,Image,Single,Easy,Chemistry,cerium;iron;lead;lithium;uranium,uranium
+This element is a semimetal or metalloid. Here is how it looks when pure. This is:,https://www.thoughtco.com/thmb/LWbmL4RUwcMbE6ha_eQeENp6pyo=/768x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-122070014-56acffe73df78cf772b66405.jpg,Image,Single,Easy,Chemistry,silicon;aluminum;bromine;selenium;polonium,silicon
+The majority of the picture is of one element. It's the most abundant element in the universe. This element is:,https://www.thoughtco.com/thmb/y22f0uK9ipuWGd8kOURxe-QXsDw=/768x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-598315989-56ad03825f9b58b7d00ad97d.jpg,Image,Single,Easy,Chemistry,carbon;helium;hydrogen;nitrogen;oxygen,hydrogen
+This first one is supposed to build your confidence. Each one of these pieces of glassware is called a:,https://www.thoughtco.com/thmb/wAb9qNpFth42UKSLPaYn7k6OAys=/768x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-525440687-56e1c6463df78c5ba056a3a9.jpg,Image,Single,Average,Laboratory,graduated cylinder;pipette or pipet;test tube;vial or phial,test tube
+No lab is complete without this glassware. Some have measurement lines and some are unmarked. These are:,https://www.thoughtco.com/thmb/ky2DF6OWZORslRPQpMBUjhQWFEI=/768x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-87997927-56e1a7a13df78c5ba05699a1.jpg,Image,Single,Average,Laboratory,flask;beaker;measuring cup;graduated cylinder,beaker
+Any glassware with a narrow neck and larger base is called a flask. There are many different types. What is this one?,https://www.thoughtco.com/thmb/5wqyfhSDLc4AIPhHLdqcqq1LfMM=/768x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-565785411-56e1b0643df78c5ba0569e1e.jpg,Image,Single,Average,Laboratory,a boiling flask;a Buchner flask;an Erlenmeyer flask;a Florence flask,an Erlenmeyer flask
+What is the name of this piece of glassware?,https://www.thoughtco.com/thmb/nElzENX02A5V77eMBCwD-nHE2Ec=/768x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-a0178-000032h-56e1cee23df78c5ba056a64f.jpg,Image,Single,Average,Laboratory,It's a retort.;It's a burette.;It's another Erlenmeyer flask.;It's a volumetric flask.,It's a volumetric flask.
+This piece of glassware is a:,https://www.thoughtco.com/thmb/EUf_TkKxX-lvFzyZkscFa0uBCT4=/768x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-119617626-57e1bad15f9b586516364ed7.jpg,Image,Single,Average,Laboratory,buret or burrette;condenser;pipet or pipette;eudiometer,buret or burrette
+Here's another common item in the lab. This glassware is called a:,https://www.thoughtco.com/thmb/hPqmBJ2bdCaigFsLMtqBum32uNQ=/768x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-183234546-56e1cfad5f9b5854a9f890c8.jpg,Image,Single,Average,Laboratory,boiling plate;crucible;Petri dish;watch glass,Petri dish
+This item is essential in the chemistry lab and other labs that deal with liquids. It is a:,https://www.thoughtco.com/thmb/XJu-uEST4rjCVY5G13CVOtSZa04=/768x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-597316651-56e1c46c5f9b5854a9f88d3d.jpg,Image,Single,Average,Laboratory,graduated cylinder;pipet or pipette;thistle tube;volumetric flask,graduated cylinder
+This item may be made from metal or plastic, not just glass. What is it called?,https://www.thoughtco.com/thmb/WeMzQknUpcderJ06rWzLz-Cp1tM=/768x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-83869012-56e1d1ba3df78c5ba056a6ed.jpg,Image,Single,Average,Laboratory,It's a crucible.;It's a funnel.;It's a measuring cone.;It's a mortar (pestle missing).,It's a funnel.
+You might not have one of these in your science lab, but should know it. The light blue section of this apparatus is a:,https://www.thoughtco.com/thmb/uATYA6xjB7XjM6s3tP9xqlUhFDY=/768x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-157532646-56e1bee73df78c5ba056a252.jpg,Image,Single,Average,Laboratory,buret or burette;condenser;pipette or pipette;syringe,condenser
+The key to identifying this glassware is to notice the round bottom. The glass is thick and sturdy. This is a:,https://www.thoughtco.com/thmb/ZC4ymHMgSgNuNqZFLB5RZ4SE2uA=/768x300/filters:no_upscale():max_bytes(150000):strip_icc()/GettyImages-483267273-56e1d0473df78c5ba056a6aa.jpg,Image,Single,Average,Laboratory,Buchner flask;weird-shaped Erlenmeyer flask;fleaker;Florence flask,Florence flask
+The skull and crossbones is a classic warning sign, but can you name the type of danger?,https://www.thoughtco.com/thmb/C_cbnh6XzHg3u-B08smvpPExy1o=/768x300/filters:no_upscale():max_bytes(150000):strip_icc()/toxic-substance-sign-with-skull-and-crossbones-73096418-577417473df78cb62cfdf7d9.jpg,Image,Single,Hard,Hazard Science,general danger from chemicals;flammable materials;toxic or poisonous materials;dangerous to eat/drink, but otherwise safe,toxic or poisonous materials
+You may not ever see this warning symbol, but if you do it would be in your best interest to know what it means.,https://www.thoughtco.com/thmb/Oe4jc9qgQLJ_rJ9HC9uWHA_Bbjo=/768x300/filters:no_upscale():max_bytes(150000):strip_icc()/ionizing-radiation-577416625f9b58587543d069.jpg,Image,Single,Hard,Hazard Science,ionizing radiation;get out while you still can, it's radioactive here;dangerous high-powered ventilation;toxic vapors,ionizing radiation
+This symbol commonly is found in chemistry labs and on trucks carrying hazardous materials. What does it mean?,https://www.thoughtco.com/thmb/m8X5Ul6Jjem_8Fmjsrkw9yVaJww=/768x300/filters:no_upscale():max_bytes(150000):strip_icc()/-corrosive-warning-sign-73096470-5773f92f5f9b585875204621.jpg,Image,Single,Hard,Hazard Science,acid, touching it will lead to what you see in the picture;harmful to living tissue;dangerous liquid;cut or burn hazard,corrosive, no touchy-touchy
+Hint: don't store your lunch in a refrigerator which displays this sign. It signifies:,https://www.thoughtco.com/thmb/a4YyuElr8PCOwJqu3qzYZtAB5Ik=/768x300/filters:no_upscale():max_bytes(150000):strip_icc()/danger-111341492-5773f9ef3df78cb62cde28f5.jpg,Image,Single,Hard,Hazard Science,biohazard;radiation hazard;radiaoctive biological hazard;nothing necessarily dangeous, just the presence of biological samples,biohazard
+It looks like a pretty snowflake, but that yellow background is cautionary. What hazard does this symbol indicate?,https://www.thoughtco.com/thmb/CPvEuI1Txl1gxfmW57qn_mUCwZI=/768x300/filters:no_upscale():max_bytes(150000):strip_icc()/cryogenic-577413bb3df78cb62cf5c7ef.jpg,Image,Single,Hard,Hazard Science,dangerous when frozen;icy conditions;low temperature or cryogenic hazard;snow possible in this lab,low temperature or cryogenic hazard
+It's just a big X. What does that mean in a lab?,https://www.thoughtco.com/thmb/gBjUL5drf30WzR-ZY5CYmsTTYh4=/768x300/filters:no_upscale():max_bytes(150000):strip_icc()/irritantsymbol-577414645f9b5858753eeea5.jpg,Image,Single,Hard,Hazard Science,treasure buried here;don't store chemicals here;potentially harmful chemical, usually an irritant;do not enter,potentially harmful chemical, usually an irritant
+There might be a few reasonable interpretations for this sign, but only one is correct. What does this symbol indicate?,https://www.thoughtco.com/thmb/cuTxwtAXKEco_V0XIHtjGNdL5Xo=/768x300/filters:no_upscale():max_bytes(150000):strip_icc()/hot-surface-577415695f9b585875416ed5.jpg,Image,Single,Hard,Hazard Science,breakfast bar, serving bacon and pancakes;noxious vapors;hot surface;high vapor pressure,hot surface
+This symbol is often confused with a similar-looking symbol. What does it mean?,https://www.thoughtco.com/thmb/efaCG1VfHxbZ7dDwsoccHLS79ag=/768x300/filters:no_upscale():max_bytes(150000):strip_icc()/oxidizer-sign-57741a593df78cb62c04d65d.jpg,Image,Single,Hard,Hazard Science,flammable, keep away from heat or flame;oxidizer;heat-sensitive explosive;there is an open flame here,oxidizer
+This symbol means:,https://www.thoughtco.com/thmb/KXEIKs6iIGyV6gkoITeSVZs1I1k=/768x300/filters:no_upscale():max_bytes(150000):strip_icc()/nonpotablewater-5774129f5f9b5858753a97f8.jpg,Image,Single,Hard,Hazard Science,you shouldn't drink the water;you shouldn't use the faucet;you shouldn't bring in drinks;don't clean your glassware here,you shouldn't drink the water
+Unless you have been living in a hole for the past 50 years, you've seen this symbol. What does it mean?,https://www.thoughtco.com/thmb/9rEz4gmn_n0Eqt7R7SbIApREdCE=/768x300/filters:no_upscale():max_bytes(150000):strip_icc()/a-radioactive-warning-sign-101883469-5773f8f65f9b5858752008e1.jpg,Image,Single,Hard,Hazard Science,unguarded fan blades;radioactivity;biohazard;toxic chemicals,radioactivity
+Who is the player in the picture?,https://i.guim.co.uk/img/media/63322461967dfbe7b0cc8e53b0139316c99bd466/0_38_3597_2158/master/3597.jpg?width=300&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ef8e04663bd57edf5fa3c81f566d62c6,Image,Single,Average,Sports,Jack Butland;Nick Pope;Jordan Pickford;David De Gea,Jordan Pickford
+Who is the player in the picture?,https://i.guim.co.uk/img/media/c0031910f98828b1253ff8222925b296ddc17034/0_166_2096_1258/master/2096.jpg?width=300&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6054f4e634433842d93e266f5d861376,Image,Single,Average,Sports,Dries Mertens;Ederson;Fagner;Gerard Piqué,Gerard Piqué
+Who is the player in the picture?,https://i.guim.co.uk/img/media/265e96449d72facde0e452f7bcf6098073312a44/0_52_1575_945/master/1575.jpg?width=300&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=20853c2df83b5ac0c055d41e48edca67,Image,Single,Average,Sports,Granit Xhaka;Stephan Lichtsteiner;Xherdan Shaqiri;Josip Drmic,Stephan Lichtsteiner
+Who is the player in the picture?,https://i.guim.co.uk/img/media/cc9f03deb4f717b3cdd0081a8b209c03fc053564/0_252_3781_2269/master/3781.jpg?width=300&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=c9a9f601ee0edb7ff15fa6227dc1d0f7,Image,Single,Average,Sports,Juan Quintero;Juan Cuadrado;Radamel Falcao;James Rodríguez,James Rodríguez
+Who is the player in the picture?,https://i.guim.co.uk/img/media/61bf6ef929f5b7a1919a5b15347c82cfc1b8b85d/0_80_1772_1063/master/1772.jpg?width=300&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ed44c71d2d619ad3886645800e10c515,Image,Single,Average,Sports,Leon Goretzka;Julian Draxler;Joshua Kimmich;Marco Reus,Marco Reus
+Who is the player in the picture?,https://i.guim.co.uk/img/media/ef65ccbb6c6f7134b7986b4a93629d36c7f39cd8/134_94_1542_925/master/1542.jpg?width=300&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=3b8dec1147dc07a9f6c832f0aebf4870,Image,Single,Average,Sports,Javier Hernández;Adnan Januzaj;Bryan Ruiz;Neymar,Neymar
+Who is the player in the picture?,https://i.guim.co.uk/img/media/90ad5e03b715e063fa5deb377e50b6d5d3cb8051/687_355_3798_2279/master/3798.jpg?width=300&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=24c759df69dd98373753c5de075daf79,Image,Single,Average,Sports,Mohammad al-Sahlawi;Fedor Smolov;João Mário;Mohamed Salah,Mohamed Salah
+Who is the player in the picture?,https://i.guim.co.uk/img/media/0d82f6d95ac89d12856a2742e66906cf23a83d35/0_182_5000_3000/master/5000.jpg?width=300&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=04ad1b192307ba57c0fc9f2fd122dc8d,Image,Single,Average,Sports,Sergio Ramos;Paolo Hurtado;Paolo Guerrero;Jefferson Farfán,Paolo Guerrero
+Who is the player in the picture?,https://i.guim.co.uk/img/media/3a958a54b3b2943f2f5ffd98937f28a1d9ed2f12/0_28_2412_1447/master/2412.jpg?width=300&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7688e9eeb8fdbbc25495174889d18076,Image,Single,Average,Sports,Ashley Young;Trent Alexander-Arnold;Jesse Lingard;Ruben Loftus-Cheek,Ruben Loftus-Cheek
+Who is the player in the picture?,https://i.guim.co.uk/img/media/ed384e5e7366d0326f903f26cdd4506818f0e109/0_122_3308_1985/master/3308.jpg?width=300&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=6288af3ed434f3b875f331fffa4c63b4,Image,Single,Average,Sports,Thomas Müller;Mesut Özil;Toni Kroos;Timo Werner,Mesut Özil
+Who is the player in the picture?,https://i.guim.co.uk/img/media/709ca2eb000afffe78fe18a0694f26ba15b8979d/0_317_1878_1126/master/1878.jpg?width=300&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=9f833d8a4807b0a9e6e33b67990ac48f,Image,Single,Average,Sports,Nicolás Otamendi;Sergio Ramos;Lionel Messi;Aron Einar Gunnarsson,Lionel Messi
+Who is the player in the picture?,https://i.guim.co.uk/img/media/5051a5524089dd5c3ded6e1e0fb9eb05cd5fd603/0_0_3254_1952/master/3254.jpg?width=300&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=7b17d51532f1d80b30a614d363634fb6,Image,Single,Average,Sports,Neymar;Philippe Coutinho;James Rodríguez;Radamel Falcao,Radamel Falcao
+Who is the player in the picture?,https://i.guim.co.uk/img/media/65b73ba3d819c54b10c8d69cd079a495be06bf92/0_169_3996_2398/master/3996.jpg?width=300&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=e08784e7f4981c338deae8f5b5b28e48,Image,Single,Average,Sports,Marcos Rojo;Shinji Kagawa;Maximiliano Meza;Gen Shoji,Maximiliano Meza
+Who is the player in the picture?,https://i.guim.co.uk/img/media/259aed1b0a0daa34e94d1a0b729786c391c8aec4/0_111_2800_1756/master/2800.jpg?width=300&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=ca7c908e68ea0538a8ec3027c86cf3f2,Image,Single,Average,Sports,Ahmed Musa;Blaise Matuidi;Danny Welbeck;Ousmane Dembélé,Ousmane Dembélé
+Who is the player in the picture?,https://i.guim.co.uk/img/media/41519c1c77f2c62935ca1ac6b9b6d51c51ea04f7/183_553_4633_2780/master/4633.jpg?width=300&amp;quality=85&amp;auto=format&amp;fit=max&amp;s=5b80bff48dc146f0c2a27aa64b5402de,Image,Single,Average,Sports,Mohammad al-Sahlawi;Salem Al-Dawsari;Houssain al-Mogahwi;Abdullah al-Mayouf,Salem Al-Dawsari
+
